@@ -37,3 +37,9 @@ def multiplicar_matrizes(a, b, resultado):
 			for k in range(0, len(a)):
 				resultado[i][j] += a[i][k] * b[k][j]
 	return resultado
+
+def print_matriz(a):
+	for i in range(0, len(a)):
+		for j in range(0, len(a[i])):
+			print(str(a[i][j])+" ", end='')
+		print("\n")
