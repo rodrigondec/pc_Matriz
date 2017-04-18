@@ -1,4 +1,4 @@
-read: 0.0010008811950683594
+read: 0.000988006591796875
 
 execute 1: 0.0
 execute 2: 0.0
@@ -16,12 +16,13 @@ execute 13: 0.0
 execute 14: 0.0
 execute 15: 0.0
 execute 16: 0.0
-execute 17: 0.0010006427764892578
+execute 17: 0.0010001659393310547
 execute 18: 0.0
 execute 19: 0.0
 execute 20: 0.0
 
 print: 0.0
 
-Tempo total: 0.002001523971557617
-Tempo medio: 0.00010007619857788086
+Tempo total de execução: 0.0010001659393310547
+Tempo medio de execução: 5.0008296966552734e-05
+Tempo medio de execução + read + print: 0.0010380148887634277
