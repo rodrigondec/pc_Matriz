@@ -1,7 +1,7 @@
 import time
 from matriz import *
 
-matrizes = load_matrizes(5)
+matrizes = load_matrizes(6)
 a = matrizes[0]
 b = matrizes[1]
 
@@ -20,3 +20,5 @@ for x in range(0, 30):
 print(tempo_total)
 log.write("\n")
 log.write("Tempo total: "+str(tempo_total))
+log.write("\n")
+log.write("Tempo medio: "+str(tempo_total/30))
