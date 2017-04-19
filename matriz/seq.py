@@ -6,7 +6,7 @@ tempo_read = 0
 tempo_print = 0
 
 start = time.time()
-matrizes = load_matrizes(9)
+matrizes = load_matrizes(0)
 end = time.time()
 
 tempo = end - start
@@ -20,8 +20,9 @@ log = open("log/seq/"+str(len(a))+".txt", "w")
 log.write("read: "+str(tempo)) 
 log.write("\n\n")
 
-for x in range(1, 2):
-
+for x in range(1, 21):
+	resultado = fazer_matriz(len(a), len(b[0]))
+	
 	start = time.time()
 	multiplicar_matrizes(a, b, resultado)
 	end = time.time()
