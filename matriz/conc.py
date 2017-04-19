@@ -3,9 +3,9 @@ from matriz import fazer_matriz, load_matrizes, print_matriz
 import threading
 from threading import Thread
 
-index_matrizes = 0
+index_matrizes = 3
 qt_execucoes = 20
-divisor_threads = 1
+divisor_threads = 2
 
 def setup_logger(logger_name, log_file, level=logging.INFO):
     l = logging.getLogger(logger_name)
@@ -19,22 +19,27 @@ def setup_logger(logger_name, log_file, level=logging.INFO):
     l.addHandler(fileHandler)
     # l.addHandler(streamHandler)    
 
-def multiplicar(index):
+def multiplicar(indexes):
 	global resultado
-	log_threads.info("thread "+threading.currentThread().getName()+" vai multiplicar o index "+str(index))
-	for i in range(0, len(a)):
-		for j in range(0, len(a[i])):
-			resultado[i][j] += a[i][index] * b[index][j]
+	log_threads.info("thread "+threading.currentThread().getName()+" vai multiplicar os indexes "+str(indexes))
+	for index in indexes:
+		for i in range(0, len(a)):
+			for j in range(0, len(a[i])):
+				resultado[i][j] += a[i][index] * b[index][j]
 	log_threads.info("thread "+threading.currentThread().getName()+" terminou")
 
 threads = []
     
-def multiplicar_matrizes(qt_threads):
+def multiplicar_matrizes(indexes_por_thread):
 	global a
 	global b
 	global resultado
-	for k in range(0, len(a)):
-		t = Thread(name=str(k),target=multiplicar, args=(k,))
+	
+	for k in range(0, len(a), indexes_por_thread):
+		indexes = []
+		for i in range(k, (k+indexes_por_thread)):
+			indexes.append(i)
+		t = Thread(name=str(k),target=multiplicar, args=(indexes,))
 		threads.append(t)
 		t.start()
 
@@ -62,11 +67,14 @@ log_threads = logging.getLogger("log_threads")
 
 log_exec.info("read: "+str(tempo_read)+"\n")
 
-for x in range(0, qt_execucoes):
+indexes_por_thread = int(len(a)/qt_threads)
 
+for x in range(0, qt_execucoes):
+	resultado = fazer_matriz(len(a), len(b[0]))
 	log_threads.info("execute "+str(x+1))
+
 	start = time.time()
-	multiplicar_matrizes(qt_threads)
+	multiplicar_matrizes(indexes_por_thread)
 	end = time.time()
 
 	tempo = end - start
