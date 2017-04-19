@@ -40,7 +40,7 @@ tempo = end - start
 tempo_print += tempo
 
 log.write("\n")
-log.write("print: "+str(tempo)) 
+log.write("print: "+str(tempo_print)) 
 log.write("\n")
 
 print(tempo_total)
