@@ -1,0 +1,1548 @@
+execute 1
+thread 0 vai multiplicar o index 0
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar o index 6
+thread 0 terminou
+thread 7 vai multiplicar o index 7
+thread 1 terminou
+thread 5 terminou
+thread 6 terminou
+thread 8 vai multiplicar o index 8
+thread 2 terminou
+thread 3 terminou
+thread 4 terminou
+thread 9 vai multiplicar o index 9
+thread 7 terminou
+thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 8 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+thread 10 terminou
+thread 11 terminou
+thread 13 terminou
+thread 9 terminou
+thread 15 terminou
+thread 16 vai multiplicar o index 16
+thread 14 terminou
+thread 17 vai multiplicar o index 17
+thread 18 vai multiplicar o index 18
+thread 19 vai multiplicar o index 19
+thread 20 vai multiplicar o index 20
+thread 21 vai multiplicar o index 21
+thread 22 vai multiplicar o index 22
+thread 17 terminou
+thread 18 terminou
+thread 16 terminou
+thread 23 vai multiplicar o index 23
+thread 24 vai multiplicar o index 24
+thread 19 terminou
+thread 21 terminou
+thread 22 terminou
+thread 20 terminou
+thread 25 vai multiplicar o index 25
+thread 24 terminou
+thread 26 vai multiplicar o index 26
+thread 27 vai multiplicar o index 27
+thread 23 terminou
+thread 28 vai multiplicar o index 28
+thread 29 vai multiplicar o index 29
+thread 25 terminou
+thread 30 vai multiplicar o index 30
+thread 31 vai multiplicar o index 31
+thread 32 vai multiplicar o index 32
+thread 33 vai multiplicar o index 33
+thread 26 terminou
+thread 27 terminou
+thread 34 vai multiplicar o index 34
+thread 35 vai multiplicar o index 35
+thread 28 terminou
+thread 36 vai multiplicar o index 36
+thread 29 terminou
+thread 30 terminou
+thread 37 vai multiplicar o index 37
+thread 31 terminou
+thread 33 terminou
+thread 38 vai multiplicar o index 38
+thread 39 vai multiplicar o index 39
+thread 32 terminou
+thread 40 vai multiplicar o index 40
+thread 34 terminou
+thread 35 terminou
+thread 36 terminou
+thread 41 vai multiplicar o index 41
+thread 37 terminou
+thread 42 vai multiplicar o index 42
+thread 39 terminou
+thread 38 terminou
+thread 43 vai multiplicar o index 43
+thread 44 vai multiplicar o index 44
+thread 45 vai multiplicar o index 45
+thread 40 terminou
+thread 46 vai multiplicar o index 46
+thread 47 vai multiplicar o index 47
+thread 41 terminou
+thread 48 vai multiplicar o index 48
+thread 49 vai multiplicar o index 49
+thread 42 terminou
+thread 43 terminou
+thread 44 terminou
+thread 50 vai multiplicar o index 50
+thread 45 terminou
+thread 51 vai multiplicar o index 51
+thread 52 vai multiplicar o index 52
+thread 46 terminou
+thread 53 vai multiplicar o index 53
+thread 47 terminou
+thread 54 vai multiplicar o index 54
+thread 48 terminou
+thread 55 vai multiplicar o index 55
+thread 56 vai multiplicar o index 56
+thread 49 terminou
+thread 57 vai multiplicar o index 57
+thread 51 terminou
+thread 50 terminou
+thread 58 vai multiplicar o index 58
+thread 52 terminou
+thread 59 vai multiplicar o index 59
+thread 60 vai multiplicar o index 60
+thread 61 vai multiplicar o index 61
+thread 53 terminou
+thread 62 vai multiplicar o index 62
+thread 63 vai multiplicar o index 63
+thread 64 vai multiplicar o index 64
+thread 55 terminou
+thread 54 terminou
+thread 56 terminou
+thread 65 vai multiplicar o index 65
+thread 66 vai multiplicar o index 66
+thread 67 vai multiplicar o index 67
+thread 57 terminou
+thread 68 vai multiplicar o index 68
+thread 58 terminou
+thread 69 vai multiplicar o index 69
+thread 61 terminou
+thread 59 terminou
+thread 70 vai multiplicar o index 70
+thread 60 terminou
+thread 71 vai multiplicar o index 71
+thread 63 terminou
+thread 72 vai multiplicar o index 72
+thread 62 terminou
+thread 64 terminou
+thread 73 vai multiplicar o index 73
+thread 74 vai multiplicar o index 74
+thread 65 terminou
+thread 67 terminou
+thread 66 terminou
+thread 69 terminou
+thread 75 vai multiplicar o index 75
+thread 68 terminou
+thread 76 vai multiplicar o index 76
+thread 77 vai multiplicar o index 77
+thread 78 vai multiplicar o index 78
+thread 79 vai multiplicar o index 79
+thread 70 terminou
+thread 71 terminou
+thread 80 vai multiplicar o index 80
+thread 81 vai multiplicar o index 81
+thread 72 terminou
+thread 82 vai multiplicar o index 82
+thread 83 vai multiplicar o index 83
+thread 84 vai multiplicar o index 84
+thread 74 terminou
+thread 85 vai multiplicar o index 85
+thread 73 terminou
+thread 86 vai multiplicar o index 86
+thread 75 terminou
+thread 87 vai multiplicar o index 87
+thread 88 vai multiplicar o index 88
+thread 89 vai multiplicar o index 89
+thread 90 vai multiplicar o index 90
+thread 77 terminou
+thread 91 vai multiplicar o index 91
+thread 78 terminou
+thread 76 terminou
+thread 79 terminou
+thread 81 terminou
+thread 80 terminou
+thread 85 terminou
+thread 92 vai multiplicar o index 92
+thread 82 terminou
+thread 84 terminou
+thread 83 terminou
+thread 93 vai multiplicar o index 93
+thread 86 terminou
+thread 94 vai multiplicar o index 94
+thread 89 terminou
+thread 87 terminou
+thread 95 vai multiplicar o index 95
+thread 90 terminou
+thread 96 vai multiplicar o index 96
+thread 88 terminou
+thread 97 vai multiplicar o index 97
+thread 91 terminou
+thread 98 vai multiplicar o index 98
+thread 99 vai multiplicar o index 99
+thread 100 vai multiplicar o index 100
+thread 101 vai multiplicar o index 101
+thread 92 terminou
+thread 102 vai multiplicar o index 102
+thread 103 vai multiplicar o index 103
+thread 93 terminou
+thread 104 vai multiplicar o index 104
+thread 105 vai multiplicar o index 105
+thread 94 terminou
+thread 106 vai multiplicar o index 106
+thread 95 terminou
+thread 107 vai multiplicar o index 107
+thread 96 terminou
+thread 97 terminou
+thread 108 vai multiplicar o index 108
+thread 109 vai multiplicar o index 109
+thread 98 terminou
+thread 101 terminou
+thread 103 terminou
+thread 99 terminou
+thread 100 terminou
+thread 102 terminou
+thread 104 terminou
+thread 110 vai multiplicar o index 110
+thread 106 terminou
+thread 111 vai multiplicar o index 111
+thread 105 terminou
+thread 112 vai multiplicar o index 112
+thread 113 vai multiplicar o index 113
+thread 107 terminou
+thread 108 terminou
+thread 114 vai multiplicar o index 114
+thread 115 vai multiplicar o index 115
+thread 109 terminou
+thread 116 vai multiplicar o index 116
+thread 117 vai multiplicar o index 117
+thread 118 vai multiplicar o index 118
+thread 119 vai multiplicar o index 119
+thread 120 vai multiplicar o index 120
+thread 110 terminou
+thread 121 vai multiplicar o index 121
+thread 122 vai multiplicar o index 122
+thread 123 vai multiplicar o index 123
+thread 111 terminou
+thread 124 vai multiplicar o index 124
+thread 112 terminou
+thread 113 terminou
+thread 115 terminou
+thread 114 terminou
+thread 125 vai multiplicar o index 125
+thread 118 terminou
+thread 117 terminou
+thread 119 terminou
+thread 120 terminou
+thread 116 terminou
+thread 121 terminou
+thread 126 vai multiplicar o index 126
+thread 123 terminou
+thread 124 terminou
+thread 127 vai multiplicar o index 127
+thread 122 terminou
+thread 128 vai multiplicar o index 128
+thread 129 vai multiplicar o index 129
+thread 130 vai multiplicar o index 130
+thread 125 terminou
+thread 131 vai multiplicar o index 131
+thread 132 vai multiplicar o index 132
+thread 133 vai multiplicar o index 133
+thread 134 vai multiplicar o index 134
+thread 135 vai multiplicar o index 135
+thread 126 terminou
+thread 136 vai multiplicar o index 136
+thread 137 vai multiplicar o index 137
+thread 127 terminou
+thread 138 vai multiplicar o index 138
+thread 139 vai multiplicar o index 139
+thread 140 vai multiplicar o index 140
+thread 128 terminou
+thread 129 terminou
+thread 141 vai multiplicar o index 141
+thread 130 terminou
+thread 142 vai multiplicar o index 142
+thread 131 terminou
+thread 133 terminou
+thread 132 terminou
+thread 135 terminou
+thread 134 terminou
+thread 143 vai multiplicar o index 143
+thread 144 vai multiplicar o index 144
+thread 136 terminou
+thread 137 terminou
+thread 138 terminou
+thread 139 terminou
+thread 145 vai multiplicar o index 145
+thread 146 vai multiplicar o index 146
+thread 140 terminou
+thread 147 vai multiplicar o index 147
+thread 141 terminou
+thread 148 vai multiplicar o index 148
+thread 142 terminou
+thread 149 vai multiplicar o index 149
+thread 150 vai multiplicar o index 150
+thread 151 vai multiplicar o index 151
+thread 152 vai multiplicar o index 152
+thread 143 terminou
+thread 144 terminou
+thread 153 vai multiplicar o index 153
+thread 154 vai multiplicar o index 154
+thread 145 terminou
+thread 155 vai multiplicar o index 155
+thread 147 terminou
+thread 148 terminou
+thread 156 vai multiplicar o index 156
+thread 157 vai multiplicar o index 157
+thread 146 terminou
+thread 149 terminou
+thread 158 vai multiplicar o index 158
+thread 151 terminou
+thread 153 terminou
+thread 150 terminou
+thread 152 terminou
+thread 159 vai multiplicar o index 159
+thread 160 vai multiplicar o index 160
+thread 154 terminou
+thread 161 vai multiplicar o index 161
+thread 155 terminou
+thread 156 terminou
+thread 162 vai multiplicar o index 162
+thread 163 vai multiplicar o index 163
+thread 164 vai multiplicar o index 164
+thread 165 vai multiplicar o index 165
+thread 157 terminou
+thread 166 vai multiplicar o index 166
+thread 158 terminou
+thread 167 vai multiplicar o index 167
+thread 168 vai multiplicar o index 168
+thread 160 terminou
+thread 169 vai multiplicar o index 169
+thread 159 terminou
+thread 170 vai multiplicar o index 170
+thread 161 terminou
+thread 171 vai multiplicar o index 171
+thread 163 terminou
+thread 162 terminou
+thread 172 vai multiplicar o index 172
+thread 164 terminou
+thread 173 vai multiplicar o index 173
+thread 174 vai multiplicar o index 174
+thread 165 terminou
+thread 166 terminou
+thread 175 vai multiplicar o index 175
+thread 167 terminou
+thread 168 terminou
+thread 176 vai multiplicar o index 176
+thread 169 terminou
+thread 177 vai multiplicar o index 177
+thread 170 terminou
+thread 171 terminou
+thread 178 vai multiplicar o index 178
+thread 179 vai multiplicar o index 179
+thread 172 terminou
+thread 173 terminou
+thread 180 vai multiplicar o index 180
+thread 174 terminou
+thread 181 vai multiplicar o index 181
+thread 182 vai multiplicar o index 182
+thread 183 vai multiplicar o index 183
+thread 184 vai multiplicar o index 184
+thread 175 terminou
+thread 185 vai multiplicar o index 185
+thread 186 vai multiplicar o index 186
+thread 176 terminou
+thread 177 terminou
+thread 187 vai multiplicar o index 187
+thread 188 vai multiplicar o index 188
+thread 178 terminou
+thread 189 vai multiplicar o index 189
+thread 179 terminou
+thread 190 vai multiplicar o index 190
+thread 180 terminou
+thread 185 terminou
+thread 181 terminou
+thread 182 terminou
+thread 183 terminou
+thread 191 vai multiplicar o index 191
+thread 188 terminou
+thread 187 terminou
+thread 192 vai multiplicar o index 192
+thread 186 terminou
+thread 193 vai multiplicar o index 193
+thread 194 vai multiplicar o index 194
+thread 184 terminou
+thread 195 vai multiplicar o index 195
+thread 189 terminou
+thread 190 terminou
+thread 196 vai multiplicar o index 196
+thread 197 vai multiplicar o index 197
+thread 198 vai multiplicar o index 198
+thread 199 vai multiplicar o index 199
+thread 200 vai multiplicar o index 200
+thread 192 terminou
+thread 201 vai multiplicar o index 201
+thread 191 terminou
+thread 193 terminou
+thread 202 vai multiplicar o index 202
+thread 194 terminou
+thread 203 vai multiplicar o index 203
+thread 198 terminou
+thread 196 terminou
+thread 204 vai multiplicar o index 204
+thread 195 terminou
+thread 199 terminou
+thread 201 terminou
+thread 200 terminou
+thread 205 vai multiplicar o index 205
+thread 197 terminou
+thread 206 vai multiplicar o index 206
+thread 202 terminou
+thread 207 vai multiplicar o index 207
+thread 208 vai multiplicar o index 208
+thread 209 vai multiplicar o index 209
+thread 210 vai multiplicar o index 210
+thread 203 terminou
+thread 211 vai multiplicar o index 211
+thread 204 terminou
+thread 212 vai multiplicar o index 212
+thread 213 vai multiplicar o index 213
+thread 205 terminou
+thread 206 terminou
+thread 214 vai multiplicar o index 214
+thread 215 vai multiplicar o index 215
+thread 210 terminou
+thread 207 terminou
+thread 208 terminou
+thread 209 terminou
+thread 216 vai multiplicar o index 216
+thread 217 vai multiplicar o index 217
+thread 211 terminou
+thread 212 terminou
+thread 218 vai multiplicar o index 218
+thread 213 terminou
+thread 219 vai multiplicar o index 219
+thread 220 vai multiplicar o index 220
+thread 221 vai multiplicar o index 221
+thread 214 terminou
+thread 215 terminou
+thread 216 terminou
+thread 222 vai multiplicar o index 222
+thread 217 terminou
+thread 223 vai multiplicar o index 223
+thread 224 vai multiplicar o index 224
+thread 218 terminou
+thread 225 vai multiplicar o index 225
+thread 219 terminou
+thread 221 terminou
+thread 220 terminou
+thread 226 vai multiplicar o index 226
+thread 222 terminou
+thread 227 vai multiplicar o index 227
+thread 228 vai multiplicar o index 228
+thread 223 terminou
+thread 229 vai multiplicar o index 229
+thread 230 vai multiplicar o index 230
+thread 231 vai multiplicar o index 231
+thread 225 terminou
+thread 224 terminou
+thread 232 vai multiplicar o index 232
+thread 227 terminou
+thread 233 vai multiplicar o index 233
+thread 226 terminou
+thread 228 terminou
+thread 229 terminou
+thread 234 vai multiplicar o index 234
+thread 230 terminou
+thread 235 vai multiplicar o index 235
+thread 231 terminou
+thread 236 vai multiplicar o index 236
+thread 233 terminou
+thread 237 vai multiplicar o index 237
+thread 232 terminou
+thread 238 vai multiplicar o index 238
+thread 239 vai multiplicar o index 239
+thread 240 vai multiplicar o index 240
+thread 241 vai multiplicar o index 241
+thread 242 vai multiplicar o index 242
+thread 234 terminou
+thread 235 terminou
+thread 243 vai multiplicar o index 243
+thread 244 vai multiplicar o index 244
+thread 236 terminou
+thread 245 vai multiplicar o index 245
+thread 237 terminou
+thread 246 vai multiplicar o index 246
+thread 247 vai multiplicar o index 247
+thread 238 terminou
+thread 240 terminou
+thread 242 terminou
+thread 241 terminou
+thread 239 terminou
+thread 248 vai multiplicar o index 248
+thread 249 vai multiplicar o index 249
+thread 250 vai multiplicar o index 250
+thread 243 terminou
+thread 251 vai multiplicar o index 251
+thread 252 vai multiplicar o index 252
+thread 245 terminou
+thread 244 terminou
+thread 253 vai multiplicar o index 253
+thread 254 vai multiplicar o index 254
+thread 255 vai multiplicar o index 255
+thread 246 terminou
+
+
+
+thread 247 terminou
+thread 248 terminou
+thread 250 terminou
+thread 249 terminou
+thread 252 terminou
+thread 251 terminou
+execute 2
+thread 253 terminou
+thread 254 terminou
+thread 255 terminou
+thread 0 vai multiplicar o index 0
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 0 terminou
+thread 6 vai multiplicar o index 6
+thread 2 terminou
+thread 1 terminou
+thread 3 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 6 terminou
+thread 10 vai multiplicar o index 10
+thread 4 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 7 terminou
+thread 8 terminou
+thread 15 vai multiplicar o index 15
+thread 16 vai multiplicar o index 16
+thread 9 terminou
+thread 17 vai multiplicar o index 17
+thread 10 terminou
+thread 18 vai multiplicar o index 18
+thread 12 terminou
+thread 13 terminou
+thread 11 terminou
+thread 19 vai multiplicar o index 19
+thread 14 terminou
+thread 16 terminou
+thread 20 vai multiplicar o index 20
+thread 15 terminou
+thread 21 vai multiplicar o index 21
+thread 22 vai multiplicar o index 22
+thread 18 terminou
+thread 23 vai multiplicar o index 23
+thread 17 terminou
+thread 24 vai multiplicar o index 24
+thread 25 vai multiplicar o index 25
+thread 26 vai multiplicar o index 26
+thread 27 vai multiplicar o index 27
+thread 19 terminou
+thread 28 vai multiplicar o index 28
+thread 20 terminou
+thread 21 terminou
+thread 22 terminou
+thread 23 terminou
+thread 29 vai multiplicar o index 29
+thread 24 terminou
+thread 25 terminou
+thread 30 vai multiplicar o index 30
+thread 26 terminou
+thread 27 terminou
+thread 31 vai multiplicar o index 31
+thread 32 vai multiplicar o index 32
+thread 33 vai multiplicar o index 33
+thread 28 terminou
+thread 34 vai multiplicar o index 34
+thread 35 vai multiplicar o index 35
+thread 29 terminou
+thread 36 vai multiplicar o index 36
+thread 30 terminou
+thread 37 vai multiplicar o index 37
+thread 38 vai multiplicar o index 38
+thread 39 vai multiplicar o index 39
+thread 31 terminou
+thread 33 terminou
+thread 32 terminou
+thread 40 vai multiplicar o index 40
+thread 34 terminou
+thread 41 vai multiplicar o index 41
+thread 35 terminou
+thread 42 vai multiplicar o index 42
+thread 43 vai multiplicar o index 43
+thread 44 vai multiplicar o index 44
+thread 39 terminou
+thread 36 terminou
+thread 38 terminou
+thread 37 terminou
+thread 41 terminou
+thread 40 terminou
+thread 45 vai multiplicar o index 45
+thread 46 vai multiplicar o index 46
+thread 47 vai multiplicar o index 47
+thread 44 terminou
+thread 48 vai multiplicar o index 48
+thread 42 terminou
+thread 43 terminou
+thread 49 vai multiplicar o index 49
+thread 50 vai multiplicar o index 50
+thread 46 terminou
+thread 51 vai multiplicar o index 51
+thread 47 terminou
+thread 52 vai multiplicar o index 52
+thread 48 terminou
+thread 49 terminou
+thread 45 terminou
+thread 53 vai multiplicar o index 53
+thread 50 terminou
+thread 54 vai multiplicar o index 54
+thread 55 vai multiplicar o index 55
+thread 51 terminou
+thread 56 vai multiplicar o index 56
+thread 53 terminou
+thread 57 vai multiplicar o index 57
+thread 52 terminou
+thread 58 vai multiplicar o index 58
+thread 59 vai multiplicar o index 59
+thread 60 vai multiplicar o index 60
+thread 55 terminou
+thread 61 vai multiplicar o index 61
+thread 57 terminou
+thread 54 terminou
+thread 58 terminou
+thread 56 terminou
+thread 59 terminou
+thread 62 vai multiplicar o index 62
+thread 63 vai multiplicar o index 63
+thread 60 terminou
+thread 64 vai multiplicar o index 64
+thread 61 terminou
+thread 65 vai multiplicar o index 65
+thread 66 vai multiplicar o index 66
+thread 67 vai multiplicar o index 67
+thread 68 vai multiplicar o index 68
+thread 69 vai multiplicar o index 69
+thread 62 terminou
+thread 70 vai multiplicar o index 70
+thread 71 vai multiplicar o index 71
+thread 64 terminou
+thread 63 terminou
+thread 72 vai multiplicar o index 72
+thread 65 terminou
+thread 66 terminou
+thread 73 vai multiplicar o index 73
+thread 67 terminou
+thread 68 terminou
+thread 74 vai multiplicar o index 74
+thread 70 terminou
+thread 71 terminou
+thread 69 terminou
+thread 75 vai multiplicar o index 75
+thread 76 vai multiplicar o index 76
+thread 72 terminou
+thread 77 vai multiplicar o index 77
+thread 73 terminou
+thread 78 vai multiplicar o index 78
+thread 79 vai multiplicar o index 79
+thread 80 vai multiplicar o index 80
+thread 81 vai multiplicar o index 81
+thread 82 vai multiplicar o index 82
+thread 74 terminou
+thread 83 vai multiplicar o index 83
+thread 84 vai multiplicar o index 84
+thread 85 vai multiplicar o index 85
+thread 75 terminou
+thread 86 vai multiplicar o index 86
+thread 78 terminou
+thread 77 terminou
+thread 79 terminou
+thread 76 terminou
+thread 80 terminou
+thread 87 vai multiplicar o index 87
+thread 88 vai multiplicar o index 88
+thread 82 terminou
+thread 89 vai multiplicar o index 89
+thread 85 terminou
+thread 81 terminou
+thread 90 vai multiplicar o index 90
+thread 84 terminou
+thread 83 terminou
+thread 91 vai multiplicar o index 91
+thread 86 terminou
+thread 92 vai multiplicar o index 92
+thread 93 vai multiplicar o index 93
+thread 87 terminou
+thread 94 vai multiplicar o index 94
+thread 95 vai multiplicar o index 95
+thread 88 terminou
+thread 90 terminou
+thread 96 vai multiplicar o index 96
+thread 89 terminou
+thread 97 vai multiplicar o index 97
+thread 91 terminou
+thread 98 vai multiplicar o index 98
+thread 92 terminou
+thread 93 terminou
+thread 99 vai multiplicar o index 99
+thread 100 vai multiplicar o index 100
+thread 96 terminou
+thread 94 terminou
+thread 101 vai multiplicar o index 101
+thread 95 terminou
+thread 97 terminou
+thread 99 terminou
+thread 102 vai multiplicar o index 102
+thread 98 terminou
+thread 103 vai multiplicar o index 103
+thread 104 vai multiplicar o index 104
+thread 105 vai multiplicar o index 105
+thread 102 terminou
+thread 101 terminou
+thread 100 terminou
+thread 103 terminou
+thread 106 vai multiplicar o index 106
+thread 104 terminou
+thread 107 vai multiplicar o index 107
+thread 108 vai multiplicar o index 108
+thread 106 terminou
+thread 105 terminou
+thread 109 vai multiplicar o index 109
+thread 110 vai multiplicar o index 110
+thread 111 vai multiplicar o index 111
+thread 107 terminou
+thread 112 vai multiplicar o index 112
+thread 113 vai multiplicar o index 113
+thread 108 terminou
+thread 114 vai multiplicar o index 114
+thread 115 vai multiplicar o index 115
+thread 109 terminou
+thread 111 terminou
+thread 110 terminou
+thread 112 terminou
+thread 116 vai multiplicar o index 116
+thread 117 vai multiplicar o index 117
+thread 118 vai multiplicar o index 118
+thread 115 terminou
+thread 113 terminou
+thread 119 vai multiplicar o index 119
+thread 114 terminou
+thread 120 vai multiplicar o index 120
+thread 121 vai multiplicar o index 121
+thread 122 vai multiplicar o index 122
+thread 118 terminou
+thread 117 terminou
+thread 123 vai multiplicar o index 123
+thread 116 terminou
+thread 124 vai multiplicar o index 124
+thread 125 vai multiplicar o index 125
+thread 119 terminou
+thread 126 vai multiplicar o index 126
+thread 127 vai multiplicar o index 127
+thread 120 terminou
+thread 128 vai multiplicar o index 128
+thread 121 terminou
+thread 129 vai multiplicar o index 129
+thread 125 terminou
+thread 122 terminou
+thread 124 terminou
+thread 127 terminou
+thread 123 terminou
+thread 130 vai multiplicar o index 130
+thread 128 terminou
+thread 126 terminou
+thread 131 vai multiplicar o index 131
+thread 129 terminou
+thread 132 vai multiplicar o index 132
+thread 133 vai multiplicar o index 133
+thread 134 vai multiplicar o index 134
+thread 135 vai multiplicar o index 135
+thread 136 vai multiplicar o index 136
+thread 137 vai multiplicar o index 137
+thread 138 vai multiplicar o index 138
+thread 130 terminou
+thread 139 vai multiplicar o index 139
+thread 131 terminou
+thread 140 vai multiplicar o index 140
+thread 132 terminou
+thread 141 vai multiplicar o index 141
+thread 142 vai multiplicar o index 142
+thread 133 terminou
+thread 134 terminou
+thread 135 terminou
+thread 143 vai multiplicar o index 143
+thread 137 terminou
+thread 144 vai multiplicar o index 144
+thread 136 terminou
+thread 139 terminou
+thread 138 terminou
+thread 145 vai multiplicar o index 145
+thread 146 vai multiplicar o index 146
+thread 147 vai multiplicar o index 147
+thread 140 terminou
+thread 148 vai multiplicar o index 148
+thread 149 vai multiplicar o index 149
+thread 142 terminou
+thread 141 terminou
+thread 150 vai multiplicar o index 150
+thread 143 terminou
+thread 151 vai multiplicar o index 151
+thread 144 terminou
+thread 152 vai multiplicar o index 152
+thread 145 terminou
+thread 153 vai multiplicar o index 153
+thread 146 terminou
+thread 148 terminou
+thread 149 terminou
+thread 154 vai multiplicar o index 154
+thread 150 terminou
+thread 147 terminou
+thread 155 vai multiplicar o index 155
+thread 156 vai multiplicar o index 156
+thread 152 terminou
+thread 153 terminou
+thread 151 terminou
+thread 157 vai multiplicar o index 157
+thread 154 terminou
+thread 158 vai multiplicar o index 158
+thread 159 vai multiplicar o index 159
+thread 155 terminou
+thread 156 terminou
+thread 160 vai multiplicar o index 160
+thread 161 vai multiplicar o index 161
+thread 162 vai multiplicar o index 162
+thread 157 terminou
+thread 158 terminou
+thread 163 vai multiplicar o index 163
+thread 159 terminou
+thread 160 terminou
+thread 164 vai multiplicar o index 164
+thread 161 terminou
+thread 165 vai multiplicar o index 165
+thread 166 vai multiplicar o index 166
+thread 162 terminou
+thread 163 terminou
+thread 164 terminou
+thread 167 vai multiplicar o index 167
+thread 168 vai multiplicar o index 168
+thread 166 terminou
+thread 169 vai multiplicar o index 169
+thread 170 vai multiplicar o index 170
+thread 165 terminou
+thread 168 terminou
+thread 171 vai multiplicar o index 171
+thread 167 terminou
+thread 172 vai multiplicar o index 172
+thread 173 vai multiplicar o index 173
+thread 171 terminou
+thread 169 terminou
+thread 174 vai multiplicar o index 174
+thread 175 vai multiplicar o index 175
+thread 172 terminou
+thread 176 vai multiplicar o index 176
+thread 170 terminou
+thread 173 terminou
+thread 177 vai multiplicar o index 177
+thread 178 vai multiplicar o index 178
+thread 179 vai multiplicar o index 179
+thread 175 terminou
+thread 174 terminou
+thread 180 vai multiplicar o index 180
+thread 181 vai multiplicar o index 181
+thread 176 terminou
+thread 182 vai multiplicar o index 182
+thread 177 terminou
+thread 178 terminou
+thread 179 terminou
+thread 183 vai multiplicar o index 183
+thread 184 vai multiplicar o index 184
+thread 185 vai multiplicar o index 185
+thread 186 vai multiplicar o index 186
+thread 180 terminou
+thread 181 terminou
+thread 187 vai multiplicar o index 187
+thread 182 terminou
+thread 184 terminou
+thread 188 vai multiplicar o index 188
+thread 183 terminou
+thread 186 terminou
+thread 189 vai multiplicar o index 189
+thread 185 terminou
+thread 190 vai multiplicar o index 190
+thread 191 vai multiplicar o index 191
+thread 192 vai multiplicar o index 192
+thread 187 terminou
+thread 193 vai multiplicar o index 193
+thread 194 vai multiplicar o index 194
+thread 195 vai multiplicar o index 195
+thread 188 terminou
+thread 196 vai multiplicar o index 196
+thread 189 terminou
+thread 191 terminou
+thread 190 terminou
+thread 192 terminou
+thread 195 terminou
+thread 197 vai multiplicar o index 197
+thread 194 terminou
+thread 198 vai multiplicar o index 198
+thread 196 terminou
+thread 193 terminou
+thread 199 vai multiplicar o index 199
+thread 200 vai multiplicar o index 200
+thread 197 terminou
+thread 201 vai multiplicar o index 201
+thread 202 vai multiplicar o index 202
+thread 203 vai multiplicar o index 203
+thread 199 terminou
+thread 204 vai multiplicar o index 204
+thread 198 terminou
+thread 200 terminou
+thread 205 vai multiplicar o index 205
+thread 206 vai multiplicar o index 206
+thread 204 terminou
+thread 202 terminou
+thread 203 terminou
+thread 201 terminou
+thread 207 vai multiplicar o index 207
+thread 208 vai multiplicar o index 208
+thread 206 terminou
+thread 209 vai multiplicar o index 209
+thread 205 terminou
+thread 210 vai multiplicar o index 210
+thread 211 vai multiplicar o index 211
+thread 212 vai multiplicar o index 212
+thread 213 vai multiplicar o index 213
+thread 214 vai multiplicar o index 214
+thread 208 terminou
+thread 215 vai multiplicar o index 215
+thread 210 terminou
+thread 216 vai multiplicar o index 216
+thread 209 terminou
+thread 213 terminou
+thread 207 terminou
+thread 211 terminou
+thread 214 terminou
+thread 215 terminou
+thread 217 vai multiplicar o index 217
+thread 212 terminou
+thread 216 terminou
+thread 218 vai multiplicar o index 218
+thread 219 vai multiplicar o index 219
+thread 220 vai multiplicar o index 220
+thread 221 vai multiplicar o index 221
+thread 222 vai multiplicar o index 222
+thread 223 vai multiplicar o index 223
+thread 224 vai multiplicar o index 224
+thread 217 terminou
+thread 220 terminou
+thread 219 terminou
+thread 218 terminou
+thread 221 terminou
+thread 223 terminou
+thread 225 vai multiplicar o index 225
+thread 222 terminou
+thread 226 vai multiplicar o index 226
+thread 224 terminou
+thread 227 vai multiplicar o index 227
+thread 228 vai multiplicar o index 228
+thread 229 vai multiplicar o index 229
+thread 230 vai multiplicar o index 230
+thread 231 vai multiplicar o index 231
+thread 225 terminou
+thread 232 vai multiplicar o index 232
+thread 226 terminou
+thread 228 terminou
+thread 227 terminou
+thread 233 vai multiplicar o index 233
+thread 229 terminou
+thread 234 vai multiplicar o index 234
+thread 230 terminou
+thread 235 vai multiplicar o index 235
+thread 232 terminou
+thread 236 vai multiplicar o index 236
+thread 237 vai multiplicar o index 237
+thread 231 terminou
+thread 238 vai multiplicar o index 238
+thread 233 terminou
+thread 239 vai multiplicar o index 239
+thread 240 vai multiplicar o index 240
+thread 234 terminou
+thread 235 terminou
+thread 237 terminou
+thread 238 terminou
+thread 236 terminou
+thread 241 vai multiplicar o index 241
+thread 242 vai multiplicar o index 242
+thread 239 terminou
+thread 240 terminou
+thread 243 vai multiplicar o index 243
+thread 244 vai multiplicar o index 244
+thread 245 vai multiplicar o index 245
+thread 242 terminou
+thread 246 vai multiplicar o index 246
+thread 247 vai multiplicar o index 247
+thread 248 vai multiplicar o index 248
+thread 241 terminou
+thread 243 terminou
+thread 249 vai multiplicar o index 249
+thread 244 terminou
+thread 245 terminou
+thread 250 vai multiplicar o index 250
+thread 246 terminou
+thread 251 vai multiplicar o index 251
+thread 248 terminou
+thread 252 vai multiplicar o index 252
+thread 247 terminou
+thread 253 vai multiplicar o index 253
+thread 254 vai multiplicar o index 254
+thread 255 vai multiplicar o index 255
+
+
+
+thread 249 terminou
+thread 250 terminou
+thread 251 terminou
+execute 3
+thread 252 terminou
+thread 253 terminou
+thread 255 terminou
+thread 254 terminou
+thread 0 vai multiplicar o index 0
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 0 terminou
+thread 1 terminou
+thread 2 terminou
+thread 4 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 3 terminou
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 6 terminou
+thread 11 vai multiplicar o index 11
+thread 7 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 8 terminou
+thread 9 terminou
+thread 11 terminou
+thread 14 vai multiplicar o index 14
+thread 12 terminou
+thread 10 terminou
+thread 15 vai multiplicar o index 15
+thread 13 terminou
+thread 16 vai multiplicar o index 16
+thread 14 terminou
+thread 17 vai multiplicar o index 17
+thread 15 terminou
+thread 18 vai multiplicar o index 18
+thread 16 terminou
+thread 19 vai multiplicar o index 19
+thread 20 vai multiplicar o index 20
+thread 21 vai multiplicar o index 21
+thread 22 vai multiplicar o index 22
+thread 17 terminou
+thread 19 terminou
+thread 23 vai multiplicar o index 23
+thread 18 terminou
+thread 22 terminou
+thread 24 vai multiplicar o index 24
+thread 21 terminou
+thread 20 terminou
+thread 25 vai multiplicar o index 25
+thread 23 terminou
+thread 26 vai multiplicar o index 26
+thread 27 vai multiplicar o index 27
+thread 24 terminou
+thread 28 vai multiplicar o index 28
+thread 29 vai multiplicar o index 29
+thread 25 terminou
+thread 26 terminou
+thread 30 vai multiplicar o index 30
+thread 31 vai multiplicar o index 31
+thread 32 vai multiplicar o index 32
+thread 27 terminou
+thread 33 vai multiplicar o index 33
+thread 34 vai multiplicar o index 34
+thread 29 terminou
+thread 28 terminou
+thread 35 vai multiplicar o index 35
+thread 30 terminou
+thread 36 vai multiplicar o index 36
+thread 32 terminou
+thread 31 terminou
+thread 37 vai multiplicar o index 37
+thread 38 vai multiplicar o index 38
+thread 39 vai multiplicar o index 39
+thread 34 terminou
+thread 40 vai multiplicar o index 40
+thread 33 terminou
+thread 41 vai multiplicar o index 41
+thread 42 vai multiplicar o index 42
+thread 36 terminou
+thread 43 vai multiplicar o index 43
+thread 35 terminou
+thread 44 vai multiplicar o index 44
+thread 37 terminou
+thread 39 terminou
+thread 40 terminou
+thread 45 vai multiplicar o index 45
+thread 38 terminou
+thread 46 vai multiplicar o index 46
+thread 42 terminou
+thread 41 terminou
+thread 47 vai multiplicar o index 47
+thread 48 vai multiplicar o index 48
+thread 44 terminou
+thread 49 vai multiplicar o index 49
+thread 43 terminou
+thread 50 vai multiplicar o index 50
+thread 51 vai multiplicar o index 51
+thread 45 terminou
+thread 52 vai multiplicar o index 52
+thread 46 terminou
+thread 53 vai multiplicar o index 53
+thread 47 terminou
+thread 54 vai multiplicar o index 54
+thread 49 terminou
+thread 48 terminou
+thread 55 vai multiplicar o index 55
+thread 51 terminou
+thread 53 terminou
+thread 52 terminou
+thread 56 vai multiplicar o index 56
+thread 50 terminou
+thread 57 vai multiplicar o index 57
+thread 58 vai multiplicar o index 58
+thread 54 terminou
+thread 59 vai multiplicar o index 59
+thread 55 terminou
+thread 60 vai multiplicar o index 60
+thread 61 vai multiplicar o index 61
+thread 62 vai multiplicar o index 62
+thread 57 terminou
+thread 56 terminou
+thread 58 terminou
+thread 63 vai multiplicar o index 63
+thread 64 vai multiplicar o index 64
+thread 59 terminou
+thread 60 terminou
+thread 65 vai multiplicar o index 65
+thread 66 vai multiplicar o index 66
+thread 67 vai multiplicar o index 67
+thread 61 terminou
+thread 68 vai multiplicar o index 68
+thread 62 terminou
+thread 64 terminou
+thread 63 terminou
+thread 69 vai multiplicar o index 69
+thread 70 vai multiplicar o index 70
+thread 71 vai multiplicar o index 71
+thread 72 vai multiplicar o index 72
+thread 65 terminou
+thread 73 vai multiplicar o index 73
+thread 67 terminou
+thread 66 terminou
+thread 74 vai multiplicar o index 74
+thread 75 vai multiplicar o index 75
+thread 76 vai multiplicar o index 76
+thread 70 terminou
+thread 77 vai multiplicar o index 77
+thread 68 terminou
+thread 78 vai multiplicar o index 78
+thread 72 terminou
+thread 69 terminou
+thread 71 terminou
+thread 73 terminou
+thread 79 vai multiplicar o index 79
+thread 74 terminou
+thread 80 vai multiplicar o index 80
+thread 75 terminou
+thread 76 terminou
+thread 81 vai multiplicar o index 81
+thread 77 terminou
+thread 78 terminou
+thread 82 vai multiplicar o index 82
+thread 83 vai multiplicar o index 83
+thread 79 terminou
+thread 84 vai multiplicar o index 84
+thread 85 vai multiplicar o index 85
+thread 80 terminou
+thread 86 vai multiplicar o index 86
+thread 87 vai multiplicar o index 87
+thread 81 terminou
+thread 88 vai multiplicar o index 88
+thread 89 vai multiplicar o index 89
+thread 82 terminou
+thread 90 vai multiplicar o index 90
+thread 83 terminou
+thread 91 vai multiplicar o index 91
+thread 85 terminou
+thread 92 vai multiplicar o index 92
+thread 84 terminou
+thread 86 terminou
+thread 93 vai multiplicar o index 93
+thread 87 terminou
+thread 88 terminou
+thread 94 vai multiplicar o index 94
+thread 89 terminou
+thread 91 terminou
+thread 95 vai multiplicar o index 95
+thread 96 vai multiplicar o index 96
+thread 90 terminou
+thread 92 terminou
+thread 97 vai multiplicar o index 97
+thread 98 vai multiplicar o index 98
+thread 99 vai multiplicar o index 99
+thread 93 terminou
+thread 100 vai multiplicar o index 100
+thread 94 terminou
+thread 101 vai multiplicar o index 101
+thread 95 terminou
+thread 96 terminou
+thread 98 terminou
+thread 97 terminou
+thread 102 vai multiplicar o index 102
+thread 99 terminou
+thread 103 vai multiplicar o index 103
+thread 104 vai multiplicar o index 104
+thread 101 terminou
+thread 100 terminou
+thread 105 vai multiplicar o index 105
+thread 102 terminou
+thread 106 vai multiplicar o index 106
+thread 103 terminou
+thread 107 vai multiplicar o index 107
+thread 108 vai multiplicar o index 108
+thread 104 terminou
+thread 109 vai multiplicar o index 109
+thread 110 vai multiplicar o index 110
+thread 106 terminou
+thread 107 terminou
+thread 105 terminou
+thread 108 terminou
+thread 111 vai multiplicar o index 111
+thread 112 vai multiplicar o index 112
+thread 110 terminou
+thread 113 vai multiplicar o index 113
+thread 109 terminou
+thread 114 vai multiplicar o index 114
+thread 115 vai multiplicar o index 115
+thread 111 terminou
+thread 112 terminou
+thread 116 vai multiplicar o index 116
+thread 117 vai multiplicar o index 117
+thread 113 terminou
+thread 115 terminou
+thread 118 vai multiplicar o index 118
+thread 114 terminou
+thread 116 terminou
+thread 119 vai multiplicar o index 119
+thread 117 terminou
+thread 120 vai multiplicar o index 120
+thread 118 terminou
+thread 121 vai multiplicar o index 121
+thread 122 vai multiplicar o index 122
+thread 119 terminou
+thread 123 vai multiplicar o index 123
+thread 121 terminou
+thread 124 vai multiplicar o index 124
+thread 120 terminou
+thread 125 vai multiplicar o index 125
+thread 122 terminou
+thread 126 vai multiplicar o index 126
+thread 123 terminou
+thread 127 vai multiplicar o index 127
+thread 128 vai multiplicar o index 128
+thread 129 vai multiplicar o index 129
+thread 130 vai multiplicar o index 130
+thread 131 vai multiplicar o index 131
+thread 124 terminou
+thread 125 terminou
+thread 132 vai multiplicar o index 132
+thread 133 vai multiplicar o index 133
+thread 127 terminou
+thread 126 terminou
+thread 134 vai multiplicar o index 134
+thread 128 terminou
+thread 131 terminou
+thread 130 terminou
+thread 135 vai multiplicar o index 135
+thread 129 terminou
+thread 136 vai multiplicar o index 136
+thread 133 terminou
+thread 132 terminou
+thread 137 vai multiplicar o index 137
+thread 138 vai multiplicar o index 138
+thread 134 terminou
+thread 139 vai multiplicar o index 139
+thread 140 vai multiplicar o index 140
+thread 141 vai multiplicar o index 141
+thread 142 vai multiplicar o index 142
+thread 143 vai multiplicar o index 143
+thread 144 vai multiplicar o index 144
+thread 136 terminou
+thread 137 terminou
+thread 145 vai multiplicar o index 145
+thread 138 terminou
+thread 146 vai multiplicar o index 146
+thread 135 terminou
+thread 139 terminou
+thread 140 terminou
+thread 141 terminou
+thread 147 vai multiplicar o index 147
+thread 142 terminou
+thread 148 vai multiplicar o index 148
+thread 143 terminou
+thread 149 vai multiplicar o index 149
+thread 144 terminou
+thread 150 vai multiplicar o index 150
+thread 145 terminou
+thread 151 vai multiplicar o index 151
+thread 152 vai multiplicar o index 152
+thread 146 terminou
+thread 153 vai multiplicar o index 153
+thread 147 terminou
+thread 154 vai multiplicar o index 154
+thread 155 vai multiplicar o index 155
+thread 156 vai multiplicar o index 156
+thread 149 terminou
+thread 148 terminou
+thread 157 vai multiplicar o index 157
+thread 150 terminou
+thread 158 vai multiplicar o index 158
+thread 151 terminou
+thread 159 vai multiplicar o index 159
+thread 152 terminou
+thread 160 vai multiplicar o index 160
+thread 161 vai multiplicar o index 161
+thread 153 terminou
+thread 162 vai multiplicar o index 162
+thread 155 terminou
+thread 156 terminou
+thread 154 terminou
+thread 163 vai multiplicar o index 163
+thread 157 terminou
+thread 164 vai multiplicar o index 164
+thread 165 vai multiplicar o index 165
+thread 158 terminou
+thread 166 vai multiplicar o index 166
+thread 167 vai multiplicar o index 167
+thread 168 vai multiplicar o index 168
+thread 169 vai multiplicar o index 169
+thread 159 terminou
+thread 170 vai multiplicar o index 170
+thread 160 terminou
+thread 171 vai multiplicar o index 171
+thread 172 vai multiplicar o index 172
+thread 161 terminou
+thread 162 terminou
+thread 173 vai multiplicar o index 173
+thread 174 vai multiplicar o index 174
+thread 175 vai multiplicar o index 175
+thread 176 vai multiplicar o index 176
+thread 177 vai multiplicar o index 177
+thread 163 terminou
+thread 164 terminou
+thread 165 terminou
+thread 178 vai multiplicar o index 178
+thread 167 terminou
+thread 166 terminou
+thread 179 vai multiplicar o index 179
+thread 180 vai multiplicar o index 180
+thread 169 terminou
+thread 181 vai multiplicar o index 181
+thread 168 terminou
+thread 182 vai multiplicar o index 182
+thread 183 vai multiplicar o index 183
+thread 170 terminou
+thread 184 vai multiplicar o index 184
+thread 171 terminou
+thread 172 terminou
+thread 185 vai multiplicar o index 185
+thread 173 terminou
+thread 175 terminou
+thread 186 vai multiplicar o index 186
+thread 177 terminou
+thread 174 terminou
+thread 176 terminou
+thread 187 vai multiplicar o index 187
+thread 188 vai multiplicar o index 188
+thread 189 vai multiplicar o index 189
+thread 190 vai multiplicar o index 190
+thread 178 terminou
+thread 179 terminou
+thread 191 vai multiplicar o index 191
+thread 192 vai multiplicar o index 192
+thread 181 terminou
+thread 180 terminou
+thread 193 vai multiplicar o index 193
+thread 194 vai multiplicar o index 194
+thread 195 vai multiplicar o index 195
+thread 182 terminou
+thread 183 terminou
+thread 196 vai multiplicar o index 196
+thread 184 terminou
+thread 197 vai multiplicar o index 197
+thread 198 vai multiplicar o index 198
+thread 185 terminou
+thread 199 vai multiplicar o index 199
+thread 200 vai multiplicar o index 200
+thread 201 vai multiplicar o index 201
+thread 186 terminou
+thread 187 terminou
+thread 202 vai multiplicar o index 202
+thread 189 terminou
+thread 203 vai multiplicar o index 203
+thread 204 vai multiplicar o index 204
+thread 188 terminou
+thread 190 terminou
+thread 205 vai multiplicar o index 205
+thread 191 terminou
+thread 206 vai multiplicar o index 206
+thread 207 vai multiplicar o index 207
+thread 192 terminou
+thread 208 vai multiplicar o index 208
+thread 209 vai multiplicar o index 209
+thread 210 vai multiplicar o index 210
+thread 211 vai multiplicar o index 211
+thread 193 terminou
+thread 195 terminou
+thread 212 vai multiplicar o index 212
+thread 196 terminou
+thread 198 terminou
+thread 213 vai multiplicar o index 213
+thread 194 terminou
+thread 214 vai multiplicar o index 214
+thread 197 terminou
+thread 201 terminou
+thread 199 terminou
+thread 215 vai multiplicar o index 215
+thread 216 vai multiplicar o index 216
+thread 200 terminou
+thread 217 vai multiplicar o index 217
+thread 218 vai multiplicar o index 218
+thread 219 vai multiplicar o index 219
+thread 202 terminou
+thread 220 vai multiplicar o index 220
+thread 221 vai multiplicar o index 221
+thread 203 terminou
+thread 222 vai multiplicar o index 222
+thread 204 terminou
+thread 205 terminou
+thread 223 vai multiplicar o index 223
+thread 224 vai multiplicar o index 224
+thread 225 vai multiplicar o index 225
+thread 226 vai multiplicar o index 226
+thread 227 vai multiplicar o index 227
+thread 207 terminou
+thread 208 terminou
+thread 206 terminou
+thread 209 terminou
+thread 210 terminou
+thread 228 vai multiplicar o index 228
+thread 229 vai multiplicar o index 229
+thread 211 terminou
+thread 230 vai multiplicar o index 230
+thread 231 vai multiplicar o index 231
+thread 232 vai multiplicar o index 232
+thread 233 vai multiplicar o index 233
+thread 234 vai multiplicar o index 234
+thread 212 terminou
+thread 235 vai multiplicar o index 235
+thread 236 vai multiplicar o index 236
+thread 237 vai multiplicar o index 237
+thread 213 terminou
+thread 238 vai multiplicar o index 238
+thread 239 vai multiplicar o index 239
+thread 215 terminou
+thread 214 terminou
+thread 240 vai multiplicar o index 240
+thread 241 vai multiplicar o index 241
+thread 242 vai multiplicar o index 242
+thread 216 terminou
+thread 218 terminou
+thread 217 terminou
+thread 220 terminou
+thread 221 terminou
+thread 243 vai multiplicar o index 243
+thread 219 terminou
+thread 244 vai multiplicar o index 244
+thread 222 terminou
+thread 245 vai multiplicar o index 245
+thread 246 vai multiplicar o index 246
+thread 223 terminou
+thread 224 terminou
+thread 226 terminou
+thread 227 terminou
+thread 247 vai multiplicar o index 247
+thread 225 terminou
+thread 248 vai multiplicar o index 248
+thread 249 vai multiplicar o index 249
+thread 228 terminou
+thread 250 vai multiplicar o index 250
+thread 251 vai multiplicar o index 251
+thread 229 terminou
+thread 252 vai multiplicar o index 252
+thread 230 terminou
+thread 232 terminou
+thread 253 vai multiplicar o index 253
+thread 231 terminou
+thread 254 vai multiplicar o index 254
+thread 234 terminou
+thread 255 vai multiplicar o index 255
+thread 233 terminou
+thread 235 terminou
+
+
+
+thread 237 terminou
+thread 238 terminou
+thread 239 terminou
+thread 236 terminou
+thread 240 terminou
+thread 242 terminou
+thread 241 terminou
+thread 243 terminou
+thread 244 terminou
+thread 245 terminou
+thread 246 terminou
+thread 248 terminou
+thread 247 terminou
+thread 249 terminou
+thread 252 terminou
+thread 250 terminou
+thread 251 terminou
+thread 254 terminou
+thread 253 terminou
+thread 255 terminou

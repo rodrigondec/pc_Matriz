@@ -1,0 +1,720 @@
+execute 1
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 1 terminou
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 3 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 4 terminou
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 6 terminou
+thread 11 vai multiplicar o index 11
+thread 7 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 8 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 9 terminou
+
+
+
+thread 10 terminou
+thread 11 terminou
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 2
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 1 terminou
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 3 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 4 terminou
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 6 terminou
+thread 11 vai multiplicar o index 11
+thread 7 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 8 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 9 terminou
+
+
+
+thread 10 terminou
+thread 11 terminou
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 3
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 1 terminou
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 3 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 4 terminou
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 6 terminou
+thread 10 vai multiplicar o index 10
+thread 7 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 8 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 9 terminou
+thread 15 vai multiplicar o index 15
+
+
+
+thread 10 terminou
+thread 11 terminou
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 4
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 1 terminou
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 3 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 4 terminou
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 6 terminou
+thread 10 vai multiplicar o index 10
+thread 7 terminou
+thread 11 vai multiplicar o index 11
+thread 8 terminou
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 10 terminou
+thread 15 vai multiplicar o index 15
+thread 11 terminou
+
+
+
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 5
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar o index 9
+thread 8 terminou
+thread 10 vai multiplicar o index 10
+thread 9 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 10 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 6
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar o index 6
+thread 5 terminou
+thread 7 vai multiplicar o index 7
+thread 6 terminou
+thread 8 vai multiplicar o index 8
+thread 7 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 8 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 10 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 11 terminou
+
+
+
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 7
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 3 terminou
+thread 5 vai multiplicar o index 5
+thread 4 terminou
+thread 6 vai multiplicar o index 6
+thread 5 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 6 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 7 terminou
+thread 11 vai multiplicar o index 11
+thread 8 terminou
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 10 terminou
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 8
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 3 terminou
+thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar o index 6
+thread 4 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 5 terminou
+thread 9 vai multiplicar o index 9
+thread 6 terminou
+thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar o index 11
+thread 7 terminou
+thread 12 vai multiplicar o index 12
+thread 8 terminou
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 10 terminou
+thread 15 vai multiplicar o index 15
+thread 11 terminou
+
+
+
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 9
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 3 terminou
+thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar o index 6
+thread 4 terminou
+thread 7 vai multiplicar o index 7
+thread 5 terminou
+thread 8 vai multiplicar o index 8
+thread 6 terminou
+thread 9 vai multiplicar o index 9
+thread 7 terminou
+thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar o index 11
+thread 8 terminou
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 10 terminou
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 10
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 6 terminou
+thread 8 vai multiplicar o index 8
+thread 7 terminou
+thread 9 vai multiplicar o index 9
+thread 8 terminou
+thread 10 vai multiplicar o index 10
+thread 9 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 10 terminou
+thread 13 vai multiplicar o index 13
+thread 11 terminou
+thread 14 vai multiplicar o index 14
+thread 12 terminou
+thread 15 vai multiplicar o index 15
+thread 13 terminou
+
+
+
+thread 14 terminou
+thread 15 terminou
+execute 11
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 8 terminou
+thread 9 vai multiplicar o index 9
+thread 9 terminou
+thread 10 vai multiplicar o index 10
+thread 10 terminou
+thread 11 vai multiplicar o index 11
+thread 11 terminou
+thread 12 vai multiplicar o index 12
+thread 12 terminou
+thread 13 vai multiplicar o index 13
+thread 13 terminou
+thread 14 vai multiplicar o index 14
+thread 14 terminou
+thread 15 vai multiplicar o index 15
+
+
+
+thread 15 terminou
+execute 12
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 6 terminou
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 8 terminou
+thread 11 vai multiplicar o index 11
+thread 9 terminou
+thread 12 vai multiplicar o index 12
+thread 10 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 13
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 8 terminou
+thread 9 vai multiplicar o index 9
+thread 9 terminou
+thread 10 vai multiplicar o index 10
+thread 10 terminou
+thread 11 vai multiplicar o index 11
+thread 11 terminou
+thread 12 vai multiplicar o index 12
+thread 12 terminou
+thread 13 vai multiplicar o index 13
+thread 13 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 14 terminou
+
+
+
+thread 15 terminou
+execute 14
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar o index 9
+thread 8 terminou
+thread 10 vai multiplicar o index 10
+thread 9 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 10 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 15
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 8 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 9 terminou
+thread 11 vai multiplicar o index 11
+thread 10 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 11 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 16
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 6 terminou
+thread 8 vai multiplicar o index 8
+thread 7 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 8 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 10 terminou
+thread 14 vai multiplicar o index 14
+thread 11 terminou
+thread 15 vai multiplicar o index 15
+thread 12 terminou
+
+
+
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 17
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 4 terminou
+thread 6 vai multiplicar o index 6
+thread 5 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 6 terminou
+thread 9 vai multiplicar o index 9
+thread 7 terminou
+thread 10 vai multiplicar o index 10
+thread 8 terminou
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 9 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 10 terminou
+thread 15 vai multiplicar o index 15
+
+
+
+thread 11 terminou
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 18
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 2 terminou
+thread 4 vai multiplicar o index 4
+thread 3 terminou
+thread 5 vai multiplicar o index 5
+thread 4 terminou
+thread 6 vai multiplicar o index 6
+thread 5 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 6 terminou
+thread 9 vai multiplicar o index 9
+thread 7 terminou
+thread 10 vai multiplicar o index 10
+thread 8 terminou
+thread 11 vai multiplicar o index 11
+thread 9 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 10 terminou
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 11 terminou
+
+
+
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou
+execute 19
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
+thread 7 vai multiplicar o index 7
+thread 7 terminou
+thread 8 vai multiplicar o index 8
+thread 8 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 9 terminou
+thread 11 vai multiplicar o index 11
+thread 10 terminou
+thread 12 vai multiplicar o index 12
+thread 11 terminou
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 12 terminou
+thread 15 vai multiplicar o index 15
+thread 13 terminou
+
+
+
+thread 14 terminou
+thread 15 terminou
+execute 20
+thread 0 vai multiplicar o index 0
+thread 0 terminou
+thread 1 vai multiplicar o index 1
+thread 1 terminou
+thread 2 vai multiplicar o index 2
+thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 3 terminou
+thread 5 vai multiplicar o index 5
+thread 4 terminou
+thread 6 vai multiplicar o index 6
+thread 5 terminou
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 6 terminou
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 7 terminou
+thread 11 vai multiplicar o index 11
+thread 8 terminou
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 9 terminou
+thread 14 vai multiplicar o index 14
+thread 10 terminou
+thread 15 vai multiplicar o index 15
+
+
+
+thread 11 terminou
+thread 12 terminou
+thread 13 terminou
+thread 14 terminou
+thread 15 terminou

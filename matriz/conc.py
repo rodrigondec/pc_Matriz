@@ -39,7 +39,7 @@ tempo_read = 0
 tempo_print = 0
 
 start = time.time()
-matrizes = load_matrizes(6)
+matrizes = load_matrizes(5)
 end = time.time()
 
 tempo = end - start
@@ -61,6 +61,7 @@ log_exec.info("read: "+str(tempo_read)+"\n")
 qt_execucoes = 20
 for x in range(0, qt_execucoes):
 
+	log_threads.info("execute "+str(x+1))
 	start = time.time()
 	multiplicar_matrizes(qt_threads)
 	end = time.time()
@@ -69,6 +70,8 @@ for x in range(0, qt_execucoes):
 	tempo_total += tempo
 
 	log_exec.info("execute "+str(x+1)+": "+str(tempo))
+	log_threads.info("\n\n")
+
 
 start = time.time()
 print_matriz(resultado)
