@@ -1,0 +1,2052 @@
+execute 1
+thread 0 vai multiplicar o index 0
+thread 1 vai multiplicar o index 1
+thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar o index 14
+thread 15 vai multiplicar o index 15
+thread 16 vai multiplicar o index 16
+thread 17 vai multiplicar o index 17
+thread 18 vai multiplicar o index 18
+thread 19 vai multiplicar o index 19
+thread 20 vai multiplicar o index 20
+thread 21 vai multiplicar o index 21
+thread 22 vai multiplicar o index 22
+thread 23 vai multiplicar o index 23
+thread 24 vai multiplicar o index 24
+thread 25 vai multiplicar o index 25
+thread 26 vai multiplicar o index 26
+thread 27 vai multiplicar o index 27
+thread 28 vai multiplicar o index 28
+thread 29 vai multiplicar o index 29
+thread 30 vai multiplicar o index 30
+thread 31 vai multiplicar o index 31
+thread 32 vai multiplicar o index 32
+thread 33 vai multiplicar o index 33
+thread 34 vai multiplicar o index 34
+thread 35 vai multiplicar o index 35
+thread 36 vai multiplicar o index 36
+thread 37 vai multiplicar o index 37
+thread 38 vai multiplicar o index 38
+thread 39 vai multiplicar o index 39
+thread 40 vai multiplicar o index 40
+thread 41 vai multiplicar o index 41
+thread 42 vai multiplicar o index 42
+thread 43 vai multiplicar o index 43
+thread 44 vai multiplicar o index 44
+thread 45 vai multiplicar o index 45
+thread 46 vai multiplicar o index 46
+thread 47 vai multiplicar o index 47
+thread 48 vai multiplicar o index 48
+thread 49 vai multiplicar o index 49
+thread 50 vai multiplicar o index 50
+thread 51 vai multiplicar o index 51
+thread 52 vai multiplicar o index 52
+thread 53 vai multiplicar o index 53
+thread 54 vai multiplicar o index 54
+thread 55 vai multiplicar o index 55
+thread 56 vai multiplicar o index 56
+thread 57 vai multiplicar o index 57
+thread 58 vai multiplicar o index 58
+thread 59 vai multiplicar o index 59
+thread 60 vai multiplicar o index 60
+thread 61 vai multiplicar o index 61
+thread 62 vai multiplicar o index 62
+thread 63 vai multiplicar o index 63
+thread 64 vai multiplicar o index 64
+thread 65 vai multiplicar o index 65
+thread 66 vai multiplicar o index 66
+thread 67 vai multiplicar o index 67
+thread 68 vai multiplicar o index 68
+thread 69 vai multiplicar o index 69
+thread 70 vai multiplicar o index 70
+thread 71 vai multiplicar o index 71
+thread 72 vai multiplicar o index 72
+thread 73 vai multiplicar o index 73
+thread 74 vai multiplicar o index 74
+thread 75 vai multiplicar o index 75
+thread 76 vai multiplicar o index 76
+thread 77 vai multiplicar o index 77
+thread 78 vai multiplicar o index 78
+thread 79 vai multiplicar o index 79
+thread 80 vai multiplicar o index 80
+thread 81 vai multiplicar o index 81
+thread 82 vai multiplicar o index 82
+thread 83 vai multiplicar o index 83
+thread 84 vai multiplicar o index 84
+thread 85 vai multiplicar o index 85
+thread 86 vai multiplicar o index 86
+thread 87 vai multiplicar o index 87
+thread 88 vai multiplicar o index 88
+thread 89 vai multiplicar o index 89
+thread 90 vai multiplicar o index 90
+thread 91 vai multiplicar o index 91
+thread 92 vai multiplicar o index 92
+thread 93 vai multiplicar o index 93
+thread 94 vai multiplicar o index 94
+thread 95 vai multiplicar o index 95
+thread 96 vai multiplicar o index 96
+thread 97 vai multiplicar o index 97
+thread 98 vai multiplicar o index 98
+thread 99 vai multiplicar o index 99
+thread 100 vai multiplicar o index 100
+thread 101 vai multiplicar o index 101
+thread 102 vai multiplicar o index 102
+thread 103 vai multiplicar o index 103
+thread 104 vai multiplicar o index 104
+thread 105 vai multiplicar o index 105
+thread 106 vai multiplicar o index 106
+thread 107 vai multiplicar o index 107
+thread 3 terminou
+thread 108 vai multiplicar o index 108
+thread 109 vai multiplicar o index 109
+thread 7 terminou
+thread 110 vai multiplicar o index 110
+thread 111 vai multiplicar o index 111
+thread 112 vai multiplicar o index 112
+thread 113 vai multiplicar o index 113
+thread 114 vai multiplicar o index 114
+thread 115 vai multiplicar o index 115
+thread 116 vai multiplicar o index 116
+thread 117 vai multiplicar o index 117
+thread 10 terminou
+thread 118 vai multiplicar o index 118
+thread 119 vai multiplicar o index 119
+thread 120 vai multiplicar o index 120
+thread 121 vai multiplicar o index 121
+thread 122 vai multiplicar o index 122
+thread 123 vai multiplicar o index 123
+thread 124 vai multiplicar o index 124
+thread 125 vai multiplicar o index 125
+thread 126 vai multiplicar o index 126
+thread 127 vai multiplicar o index 127
+thread 128 vai multiplicar o index 128
+thread 129 vai multiplicar o index 129
+thread 130 vai multiplicar o index 130
+thread 131 vai multiplicar o index 131
+thread 132 vai multiplicar o index 132
+thread 133 vai multiplicar o index 133
+thread 134 vai multiplicar o index 134
+thread 135 vai multiplicar o index 135
+thread 136 vai multiplicar o index 136
+thread 137 vai multiplicar o index 137
+thread 138 vai multiplicar o index 138
+thread 139 vai multiplicar o index 139
+thread 140 vai multiplicar o index 140
+thread 141 vai multiplicar o index 141
+thread 142 vai multiplicar o index 142
+thread 143 vai multiplicar o index 143
+thread 2 terminou
+thread 9 terminou
+thread 4 terminou
+thread 144 vai multiplicar o index 144
+thread 145 vai multiplicar o index 145
+thread 146 vai multiplicar o index 146
+thread 147 vai multiplicar o index 147
+thread 148 vai multiplicar o index 148
+thread 149 vai multiplicar o index 149
+thread 150 vai multiplicar o index 150
+thread 151 vai multiplicar o index 151
+thread 152 vai multiplicar o index 152
+thread 153 vai multiplicar o index 153
+thread 154 vai multiplicar o index 154
+thread 155 vai multiplicar o index 155
+thread 5 terminou
+thread 156 vai multiplicar o index 156
+thread 6 terminou
+thread 157 vai multiplicar o index 157
+thread 158 vai multiplicar o index 158
+thread 0 terminou
+thread 14 terminou
+thread 159 vai multiplicar o index 159
+thread 160 vai multiplicar o index 160
+thread 1 terminou
+thread 161 vai multiplicar o index 161
+thread 162 vai multiplicar o index 162
+thread 163 vai multiplicar o index 163
+thread 164 vai multiplicar o index 164
+thread 165 vai multiplicar o index 165
+thread 166 vai multiplicar o index 166
+thread 167 vai multiplicar o index 167
+thread 168 vai multiplicar o index 168
+thread 169 vai multiplicar o index 169
+thread 170 vai multiplicar o index 170
+thread 171 vai multiplicar o index 171
+thread 172 vai multiplicar o index 172
+thread 173 vai multiplicar o index 173
+thread 174 vai multiplicar o index 174
+thread 175 vai multiplicar o index 175
+thread 43 terminou
+thread 176 vai multiplicar o index 176
+thread 177 vai multiplicar o index 177
+thread 178 vai multiplicar o index 178
+thread 179 vai multiplicar o index 179
+thread 16 terminou
+thread 29 terminou
+thread 180 vai multiplicar o index 180
+thread 181 vai multiplicar o index 181
+thread 182 vai multiplicar o index 182
+thread 183 vai multiplicar o index 183
+thread 184 vai multiplicar o index 184
+thread 185 vai multiplicar o index 185
+thread 186 vai multiplicar o index 186
+thread 187 vai multiplicar o index 187
+thread 188 vai multiplicar o index 188
+thread 189 vai multiplicar o index 189
+thread 190 vai multiplicar o index 190
+thread 191 vai multiplicar o index 191
+thread 192 vai multiplicar o index 192
+thread 193 vai multiplicar o index 193
+thread 194 vai multiplicar o index 194
+thread 195 vai multiplicar o index 195
+thread 196 vai multiplicar o index 196
+thread 20 terminou
+thread 12 terminou
+thread 197 vai multiplicar o index 197
+thread 23 terminou
+thread 198 vai multiplicar o index 198
+thread 199 vai multiplicar o index 199
+thread 200 vai multiplicar o index 200
+thread 201 vai multiplicar o index 201
+thread 202 vai multiplicar o index 202
+thread 203 vai multiplicar o index 203
+thread 204 vai multiplicar o index 204
+thread 205 vai multiplicar o index 205
+thread 17 terminou
+thread 8 terminou
+thread 206 vai multiplicar o index 206
+thread 207 vai multiplicar o index 207
+thread 208 vai multiplicar o index 208
+thread 13 terminou
+thread 209 vai multiplicar o index 209
+thread 210 vai multiplicar o index 210
+thread 46 terminou
+thread 211 vai multiplicar o index 211
+thread 36 terminou
+thread 45 terminou
+thread 212 vai multiplicar o index 212
+thread 213 vai multiplicar o index 213
+thread 214 vai multiplicar o index 214
+thread 24 terminou
+thread 215 vai multiplicar o index 215
+thread 216 vai multiplicar o index 216
+thread 48 terminou
+thread 217 vai multiplicar o index 217
+thread 218 vai multiplicar o index 218
+thread 219 vai multiplicar o index 219
+thread 220 vai multiplicar o index 220
+thread 25 terminou
+thread 39 terminou
+thread 22 terminou
+thread 19 terminou
+thread 221 vai multiplicar o index 221
+thread 31 terminou
+thread 222 vai multiplicar o index 222
+thread 223 vai multiplicar o index 223
+thread 21 terminou
+thread 224 vai multiplicar o index 224
+thread 225 vai multiplicar o index 225
+thread 66 terminou
+thread 226 vai multiplicar o index 226
+thread 227 vai multiplicar o index 227
+thread 228 vai multiplicar o index 228
+thread 229 vai multiplicar o index 229
+thread 230 vai multiplicar o index 230
+thread 52 terminou
+thread 28 terminou
+thread 231 vai multiplicar o index 231
+thread 49 terminou
+thread 53 terminou
+thread 37 terminou
+thread 54 terminou
+thread 232 vai multiplicar o index 232
+thread 233 vai multiplicar o index 233
+thread 234 vai multiplicar o index 234
+thread 235 vai multiplicar o index 235
+thread 34 terminou
+thread 18 terminou
+thread 236 vai multiplicar o index 236
+thread 44 terminou
+thread 15 terminou
+thread 83 terminou
+thread 237 vai multiplicar o index 237
+thread 51 terminou
+thread 238 vai multiplicar o index 238
+thread 239 vai multiplicar o index 239
+thread 240 vai multiplicar o index 240
+thread 241 vai multiplicar o index 241
+thread 242 vai multiplicar o index 242
+thread 243 vai multiplicar o index 243
+thread 244 vai multiplicar o index 244
+thread 41 terminou
+thread 245 vai multiplicar o index 245
+thread 246 vai multiplicar o index 246
+thread 40 terminou
+thread 11 terminou
+thread 60 terminou
+thread 247 vai multiplicar o index 247
+thread 248 vai multiplicar o index 248
+thread 249 vai multiplicar o index 249
+thread 250 vai multiplicar o index 250
+thread 251 vai multiplicar o index 251
+thread 252 vai multiplicar o index 252
+thread 253 vai multiplicar o index 253
+thread 27 terminou
+thread 254 vai multiplicar o index 254
+thread 57 terminou
+thread 255 vai multiplicar o index 255
+thread 256 vai multiplicar o index 256
+thread 257 vai multiplicar o index 257
+thread 258 vai multiplicar o index 258
+thread 259 vai multiplicar o index 259
+thread 30 terminou
+thread 67 terminou
+thread 47 terminou
+thread 69 terminou
+thread 86 terminou
+thread 260 vai multiplicar o index 260
+thread 261 vai multiplicar o index 261
+thread 262 vai multiplicar o index 262
+thread 50 terminou
+thread 263 vai multiplicar o index 263
+thread 264 vai multiplicar o index 264
+thread 265 vai multiplicar o index 265
+thread 266 vai multiplicar o index 266
+thread 267 vai multiplicar o index 267
+thread 68 terminou
+thread 59 terminou
+thread 55 terminou
+thread 38 terminou
+thread 32 terminou
+thread 61 terminou
+thread 268 vai multiplicar o index 268
+thread 42 terminou
+thread 269 vai multiplicar o index 269
+thread 62 terminou
+thread 270 vai multiplicar o index 270
+thread 271 vai multiplicar o index 271
+thread 35 terminou
+thread 272 vai multiplicar o index 272
+thread 273 vai multiplicar o index 273
+thread 274 vai multiplicar o index 274
+thread 275 vai multiplicar o index 275
+thread 276 vai multiplicar o index 276
+thread 277 vai multiplicar o index 277
+thread 278 vai multiplicar o index 278
+thread 279 vai multiplicar o index 279
+thread 280 vai multiplicar o index 280
+thread 281 vai multiplicar o index 281
+thread 282 vai multiplicar o index 282
+thread 283 vai multiplicar o index 283
+thread 64 terminou
+thread 284 vai multiplicar o index 284
+thread 285 vai multiplicar o index 285
+thread 71 terminou
+thread 73 terminou
+thread 84 terminou
+thread 89 terminou
+thread 286 vai multiplicar o index 286
+thread 287 vai multiplicar o index 287
+thread 288 vai multiplicar o index 288
+thread 289 vai multiplicar o index 289
+thread 75 terminou
+thread 290 vai multiplicar o index 290
+thread 291 vai multiplicar o index 291
+thread 292 vai multiplicar o index 292
+thread 293 vai multiplicar o index 293
+thread 294 vai multiplicar o index 294
+thread 295 vai multiplicar o index 295
+thread 296 vai multiplicar o index 296
+thread 297 vai multiplicar o index 297
+thread 298 vai multiplicar o index 298
+thread 90 terminou
+thread 299 vai multiplicar o index 299
+thread 300 vai multiplicar o index 300
+thread 301 vai multiplicar o index 301
+thread 302 vai multiplicar o index 302
+thread 85 terminou
+thread 33 terminou
+thread 303 vai multiplicar o index 303
+thread 304 vai multiplicar o index 304
+thread 305 vai multiplicar o index 305
+thread 306 vai multiplicar o index 306
+thread 307 vai multiplicar o index 307
+thread 58 terminou
+thread 308 vai multiplicar o index 308
+thread 309 vai multiplicar o index 309
+thread 80 terminou
+thread 310 vai multiplicar o index 310
+thread 77 terminou
+thread 311 vai multiplicar o index 311
+thread 312 vai multiplicar o index 312
+thread 313 vai multiplicar o index 313
+thread 314 vai multiplicar o index 314
+thread 315 vai multiplicar o index 315
+thread 76 terminou
+thread 316 vai multiplicar o index 316
+thread 317 vai multiplicar o index 317
+thread 318 vai multiplicar o index 318
+thread 319 vai multiplicar o index 319
+thread 56 terminou
+thread 94 terminou
+thread 320 vai multiplicar o index 320
+thread 72 terminou
+thread 321 vai multiplicar o index 321
+thread 322 vai multiplicar o index 322
+thread 323 vai multiplicar o index 323
+thread 26 terminou
+thread 324 vai multiplicar o index 324
+thread 74 terminou
+thread 65 terminou
+thread 103 terminou
+thread 105 terminou
+thread 325 vai multiplicar o index 325
+thread 88 terminou
+thread 91 terminou
+thread 326 vai multiplicar o index 326
+thread 327 vai multiplicar o index 327
+thread 328 vai multiplicar o index 328
+thread 329 vai multiplicar o index 329
+thread 82 terminou
+thread 117 terminou
+thread 330 vai multiplicar o index 330
+thread 331 vai multiplicar o index 331
+thread 332 vai multiplicar o index 332
+thread 333 vai multiplicar o index 333
+thread 98 terminou
+thread 334 vai multiplicar o index 334
+thread 335 vai multiplicar o index 335
+thread 92 terminou
+thread 336 vai multiplicar o index 336
+thread 337 vai multiplicar o index 337
+thread 338 vai multiplicar o index 338
+thread 339 vai multiplicar o index 339
+thread 340 vai multiplicar o index 340
+thread 87 terminou
+thread 81 terminou
+thread 79 terminou
+thread 78 terminou
+thread 130 terminou
+thread 341 vai multiplicar o index 341
+thread 63 terminou
+thread 111 terminou
+thread 70 terminou
+thread 93 terminou
+thread 342 vai multiplicar o index 342
+thread 95 terminou
+thread 343 vai multiplicar o index 343
+thread 344 vai multiplicar o index 344
+thread 345 vai multiplicar o index 345
+thread 346 vai multiplicar o index 346
+thread 347 vai multiplicar o index 347
+thread 110 terminou
+thread 348 vai multiplicar o index 348
+thread 104 terminou
+thread 102 terminou
+thread 112 terminou
+thread 96 terminou
+thread 349 vai multiplicar o index 349
+thread 350 vai multiplicar o index 350
+thread 351 vai multiplicar o index 351
+thread 352 vai multiplicar o index 352
+thread 353 vai multiplicar o index 353
+thread 354 vai multiplicar o index 354
+thread 355 vai multiplicar o index 355
+thread 356 vai multiplicar o index 356
+thread 106 terminou
+thread 357 vai multiplicar o index 357
+thread 358 vai multiplicar o index 358
+thread 359 vai multiplicar o index 359
+thread 360 vai multiplicar o index 360
+thread 361 vai multiplicar o index 361
+thread 114 terminou
+thread 122 terminou
+thread 101 terminou
+thread 107 terminou
+thread 120 terminou
+thread 362 vai multiplicar o index 362
+thread 363 vai multiplicar o index 363
+thread 364 vai multiplicar o index 364
+thread 100 terminou
+thread 97 terminou
+thread 113 terminou
+thread 150 terminou
+thread 365 vai multiplicar o index 365
+thread 121 terminou
+thread 366 vai multiplicar o index 366
+thread 109 terminou
+thread 108 terminou
+thread 367 vai multiplicar o index 367
+thread 368 vai multiplicar o index 368
+thread 369 vai multiplicar o index 369
+thread 370 vai multiplicar o index 370
+thread 371 vai multiplicar o index 371
+thread 131 terminou
+thread 372 vai multiplicar o index 372
+thread 127 terminou
+thread 141 terminou
+thread 373 vai multiplicar o index 373
+thread 374 vai multiplicar o index 374
+thread 125 terminou
+thread 375 vai multiplicar o index 375
+thread 376 vai multiplicar o index 376
+thread 377 vai multiplicar o index 377
+thread 378 vai multiplicar o index 378
+thread 379 vai multiplicar o index 379
+thread 161 terminou
+thread 160 terminou
+thread 136 terminou
+thread 132 terminou
+thread 135 terminou
+thread 115 terminou
+thread 119 terminou
+thread 126 terminou
+thread 168 terminou
+thread 116 terminou
+thread 380 vai multiplicar o index 380
+thread 381 vai multiplicar o index 381
+thread 149 terminou
+thread 382 vai multiplicar o index 382
+thread 383 vai multiplicar o index 383
+thread 384 vai multiplicar o index 384
+thread 385 vai multiplicar o index 385
+thread 386 vai multiplicar o index 386
+thread 387 vai multiplicar o index 387
+thread 388 vai multiplicar o index 388
+thread 134 terminou
+thread 123 terminou
+thread 128 terminou
+thread 389 vai multiplicar o index 389
+thread 153 terminou
+thread 390 vai multiplicar o index 390
+thread 144 terminou
+thread 137 terminou
+thread 391 vai multiplicar o index 391
+thread 392 vai multiplicar o index 392
+thread 142 terminou
+thread 118 terminou
+thread 393 vai multiplicar o index 393
+thread 394 vai multiplicar o index 394
+thread 395 vai multiplicar o index 395
+thread 396 vai multiplicar o index 396
+thread 397 vai multiplicar o index 397
+thread 398 vai multiplicar o index 398
+thread 399 vai multiplicar o index 399
+thread 166 terminou
+thread 155 terminou
+thread 400 vai multiplicar o index 400
+thread 401 vai multiplicar o index 401
+thread 402 vai multiplicar o index 402
+thread 403 vai multiplicar o index 403
+thread 404 vai multiplicar o index 404
+thread 164 terminou
+thread 405 vai multiplicar o index 405
+thread 406 vai multiplicar o index 406
+thread 407 vai multiplicar o index 407
+thread 408 vai multiplicar o index 408
+thread 409 vai multiplicar o index 409
+thread 99 terminou
+thread 133 terminou
+thread 410 vai multiplicar o index 410
+thread 139 terminou
+thread 411 vai multiplicar o index 411
+thread 412 vai multiplicar o index 412
+thread 413 vai multiplicar o index 413
+thread 414 vai multiplicar o index 414
+thread 415 vai multiplicar o index 415
+thread 416 vai multiplicar o index 416
+thread 174 terminou
+thread 165 terminou
+thread 207 terminou
+thread 417 vai multiplicar o index 417
+thread 182 terminou
+thread 418 vai multiplicar o index 418
+thread 419 vai multiplicar o index 419
+thread 129 terminou
+thread 186 terminou
+thread 420 vai multiplicar o index 420
+thread 140 terminou
+thread 421 vai multiplicar o index 421
+thread 422 vai multiplicar o index 422
+thread 143 terminou
+thread 423 vai multiplicar o index 423
+thread 173 terminou
+thread 424 vai multiplicar o index 424
+thread 147 terminou
+thread 181 terminou
+thread 425 vai multiplicar o index 425
+thread 426 vai multiplicar o index 426
+thread 176 terminou
+thread 163 terminou
+thread 145 terminou
+thread 203 terminou
+thread 427 vai multiplicar o index 427
+thread 148 terminou
+thread 180 terminou
+thread 157 terminou
+thread 167 terminou
+thread 201 terminou
+thread 151 terminou
+thread 156 terminou
+thread 159 terminou
+thread 428 vai multiplicar o index 428
+thread 429 vai multiplicar o index 429
+thread 430 vai multiplicar o index 430
+thread 154 terminou
+thread 431 vai multiplicar o index 431
+thread 138 terminou
+thread 196 terminou
+thread 432 vai multiplicar o index 432
+thread 433 vai multiplicar o index 433
+thread 146 terminou
+thread 434 vai multiplicar o index 434
+thread 435 vai multiplicar o index 435
+thread 158 terminou
+thread 199 terminou
+thread 436 vai multiplicar o index 436
+thread 437 vai multiplicar o index 437
+thread 438 vai multiplicar o index 438
+thread 169 terminou
+thread 439 vai multiplicar o index 439
+thread 440 vai multiplicar o index 440
+thread 124 terminou
+thread 441 vai multiplicar o index 441
+thread 442 vai multiplicar o index 442
+thread 202 terminou
+thread 170 terminou
+thread 443 vai multiplicar o index 443
+thread 444 vai multiplicar o index 444
+thread 445 vai multiplicar o index 445
+thread 162 terminou
+thread 446 vai multiplicar o index 446
+thread 183 terminou
+thread 447 vai multiplicar o index 447
+thread 179 terminou
+thread 195 terminou
+thread 152 terminou
+thread 194 terminou
+thread 192 terminou
+thread 448 vai multiplicar o index 448
+thread 449 vai multiplicar o index 449
+thread 450 vai multiplicar o index 450
+thread 178 terminou
+thread 451 vai multiplicar o index 451
+thread 452 vai multiplicar o index 452
+thread 453 vai multiplicar o index 453
+thread 454 vai multiplicar o index 454
+thread 187 terminou
+thread 208 terminou
+thread 171 terminou
+thread 210 terminou
+thread 193 terminou
+thread 172 terminou
+thread 206 terminou
+thread 455 vai multiplicar o index 455
+thread 456 vai multiplicar o index 456
+thread 457 vai multiplicar o index 457
+thread 458 vai multiplicar o index 458
+thread 459 vai multiplicar o index 459
+thread 177 terminou
+thread 460 vai multiplicar o index 460
+thread 461 vai multiplicar o index 461
+thread 204 terminou
+thread 209 terminou
+thread 462 vai multiplicar o index 462
+thread 463 vai multiplicar o index 463
+thread 464 vai multiplicar o index 464
+thread 465 vai multiplicar o index 465
+thread 466 vai multiplicar o index 466
+thread 467 vai multiplicar o index 467
+thread 191 terminou
+thread 468 vai multiplicar o index 468
+thread 469 vai multiplicar o index 469
+thread 198 terminou
+thread 470 vai multiplicar o index 470
+thread 471 vai multiplicar o index 471
+thread 472 vai multiplicar o index 472
+thread 189 terminou
+thread 200 terminou
+thread 175 terminou
+thread 188 terminou
+thread 473 vai multiplicar o index 473
+thread 474 vai multiplicar o index 474
+thread 475 vai multiplicar o index 475
+thread 185 terminou
+thread 211 terminou
+thread 476 vai multiplicar o index 476
+thread 222 terminou
+thread 184 terminou
+thread 477 vai multiplicar o index 477
+thread 214 terminou
+thread 478 vai multiplicar o index 478
+thread 479 vai multiplicar o index 479
+thread 480 vai multiplicar o index 480
+thread 197 terminou
+thread 217 terminou
+thread 216 terminou
+thread 481 vai multiplicar o index 481
+thread 482 vai multiplicar o index 482
+thread 483 vai multiplicar o index 483
+thread 205 terminou
+thread 190 terminou
+thread 484 vai multiplicar o index 484
+thread 485 vai multiplicar o index 485
+thread 486 vai multiplicar o index 486
+thread 487 vai multiplicar o index 487
+thread 488 vai multiplicar o index 488
+thread 489 vai multiplicar o index 489
+thread 215 terminou
+thread 490 vai multiplicar o index 490
+thread 220 terminou
+thread 226 terminou
+thread 218 terminou
+thread 491 vai multiplicar o index 491
+thread 492 vai multiplicar o index 492
+thread 493 vai multiplicar o index 493
+thread 494 vai multiplicar o index 494
+thread 212 terminou
+thread 229 terminou
+thread 495 vai multiplicar o index 495
+thread 496 vai multiplicar o index 496
+thread 219 terminou
+thread 497 vai multiplicar o index 497
+thread 225 terminou
+thread 498 vai multiplicar o index 498
+thread 230 terminou
+thread 499 vai multiplicar o index 499
+thread 500 vai multiplicar o index 500
+thread 501 vai multiplicar o index 501
+thread 502 vai multiplicar o index 502
+thread 503 vai multiplicar o index 503
+thread 504 vai multiplicar o index 504
+thread 505 vai multiplicar o index 505
+thread 213 terminou
+thread 224 terminou
+thread 506 vai multiplicar o index 506
+thread 507 vai multiplicar o index 507
+thread 508 vai multiplicar o index 508
+thread 509 vai multiplicar o index 509
+thread 510 vai multiplicar o index 510
+thread 511 vai multiplicar o index 511
+thread 512 vai multiplicar o index 512
+thread 228 terminou
+thread 513 vai multiplicar o index 513
+thread 231 terminou
+thread 514 vai multiplicar o index 514
+thread 515 vai multiplicar o index 515
+thread 516 vai multiplicar o index 516
+thread 517 vai multiplicar o index 517
+thread 518 vai multiplicar o index 518
+thread 519 vai multiplicar o index 519
+thread 520 vai multiplicar o index 520
+thread 248 terminou
+thread 243 terminou
+thread 234 terminou
+thread 521 vai multiplicar o index 521
+thread 522 vai multiplicar o index 522
+thread 523 vai multiplicar o index 523
+thread 240 terminou
+thread 524 vai multiplicar o index 524
+thread 239 terminou
+thread 221 terminou
+thread 525 vai multiplicar o index 525
+thread 526 vai multiplicar o index 526
+thread 527 vai multiplicar o index 527
+thread 528 vai multiplicar o index 528
+thread 529 vai multiplicar o index 529
+thread 530 vai multiplicar o index 530
+thread 531 vai multiplicar o index 531
+thread 532 vai multiplicar o index 532
+thread 533 vai multiplicar o index 533
+thread 227 terminou
+thread 236 terminou
+thread 534 vai multiplicar o index 534
+thread 535 vai multiplicar o index 535
+thread 536 vai multiplicar o index 536
+thread 537 vai multiplicar o index 537
+thread 223 terminou
+thread 238 terminou
+thread 244 terminou
+thread 237 terminou
+thread 235 terminou
+thread 538 vai multiplicar o index 538
+thread 539 vai multiplicar o index 539
+thread 540 vai multiplicar o index 540
+thread 541 vai multiplicar o index 541
+thread 542 vai multiplicar o index 542
+thread 543 vai multiplicar o index 543
+thread 245 terminou
+thread 544 vai multiplicar o index 544
+thread 545 vai multiplicar o index 545
+thread 546 vai multiplicar o index 546
+thread 547 vai multiplicar o index 547
+thread 247 terminou
+thread 246 terminou
+thread 548 vai multiplicar o index 548
+thread 549 vai multiplicar o index 549
+thread 550 vai multiplicar o index 550
+thread 258 terminou
+thread 551 vai multiplicar o index 551
+thread 552 vai multiplicar o index 552
+thread 553 vai multiplicar o index 553
+thread 554 vai multiplicar o index 554
+thread 555 vai multiplicar o index 555
+thread 556 vai multiplicar o index 556
+thread 557 vai multiplicar o index 557
+thread 558 vai multiplicar o index 558
+thread 559 vai multiplicar o index 559
+thread 560 vai multiplicar o index 560
+thread 561 vai multiplicar o index 561
+thread 562 vai multiplicar o index 562
+thread 232 terminou
+thread 563 vai multiplicar o index 563
+thread 564 vai multiplicar o index 564
+thread 565 vai multiplicar o index 565
+thread 566 vai multiplicar o index 566
+thread 249 terminou
+thread 567 vai multiplicar o index 567
+thread 241 terminou
+thread 568 vai multiplicar o index 568
+thread 569 vai multiplicar o index 569
+thread 570 vai multiplicar o index 570
+thread 571 vai multiplicar o index 571
+thread 572 vai multiplicar o index 572
+thread 573 vai multiplicar o index 573
+thread 574 vai multiplicar o index 574
+thread 575 vai multiplicar o index 575
+thread 576 vai multiplicar o index 576
+thread 577 vai multiplicar o index 577
+thread 259 terminou
+thread 254 terminou
+thread 578 vai multiplicar o index 578
+thread 579 vai multiplicar o index 579
+thread 260 terminou
+thread 282 terminou
+thread 580 vai multiplicar o index 580
+thread 581 vai multiplicar o index 581
+thread 582 vai multiplicar o index 582
+thread 583 vai multiplicar o index 583
+thread 584 vai multiplicar o index 584
+thread 585 vai multiplicar o index 585
+thread 586 vai multiplicar o index 586
+thread 250 terminou
+thread 267 terminou
+thread 587 vai multiplicar o index 587
+thread 588 vai multiplicar o index 588
+thread 589 vai multiplicar o index 589
+thread 590 vai multiplicar o index 590
+thread 591 vai multiplicar o index 591
+thread 592 vai multiplicar o index 592
+thread 253 terminou
+thread 593 vai multiplicar o index 593
+thread 594 vai multiplicar o index 594
+thread 595 vai multiplicar o index 595
+thread 596 vai multiplicar o index 596
+thread 242 terminou
+thread 270 terminou
+thread 257 terminou
+thread 597 vai multiplicar o index 597
+thread 598 vai multiplicar o index 598
+thread 233 terminou
+thread 599 vai multiplicar o index 599
+thread 261 terminou
+thread 600 vai multiplicar o index 600
+thread 601 vai multiplicar o index 601
+thread 266 terminou
+thread 602 vai multiplicar o index 602
+thread 263 terminou
+thread 278 terminou
+thread 273 terminou
+thread 255 terminou
+thread 603 vai multiplicar o index 603
+thread 262 terminou
+thread 604 vai multiplicar o index 604
+thread 605 vai multiplicar o index 605
+thread 606 vai multiplicar o index 606
+thread 607 vai multiplicar o index 607
+thread 608 vai multiplicar o index 608
+thread 609 vai multiplicar o index 609
+thread 610 vai multiplicar o index 610
+thread 274 terminou
+thread 611 vai multiplicar o index 611
+thread 283 terminou
+thread 276 terminou
+thread 285 terminou
+thread 612 vai multiplicar o index 612
+thread 252 terminou
+thread 256 terminou
+thread 613 vai multiplicar o index 613
+thread 614 vai multiplicar o index 614
+thread 295 terminou
+thread 615 vai multiplicar o index 615
+thread 616 vai multiplicar o index 616
+thread 279 terminou
+thread 617 vai multiplicar o index 617
+thread 618 vai multiplicar o index 618
+thread 619 vai multiplicar o index 619
+thread 620 vai multiplicar o index 620
+thread 621 vai multiplicar o index 621
+thread 622 vai multiplicar o index 622
+thread 623 vai multiplicar o index 623
+thread 304 terminou
+thread 277 terminou
+thread 624 vai multiplicar o index 624
+thread 625 vai multiplicar o index 625
+thread 626 vai multiplicar o index 626
+thread 627 vai multiplicar o index 627
+thread 317 terminou
+thread 306 terminou
+thread 269 terminou
+thread 628 vai multiplicar o index 628
+thread 629 vai multiplicar o index 629
+thread 251 terminou
+thread 630 vai multiplicar o index 630
+thread 631 vai multiplicar o index 631
+thread 632 vai multiplicar o index 632
+thread 633 vai multiplicar o index 633
+thread 284 terminou
+thread 634 vai multiplicar o index 634
+thread 265 terminou
+thread 302 terminou
+thread 635 vai multiplicar o index 635
+thread 636 vai multiplicar o index 636
+thread 275 terminou
+thread 316 terminou
+thread 637 vai multiplicar o index 637
+thread 638 vai multiplicar o index 638
+thread 639 vai multiplicar o index 639
+thread 640 vai multiplicar o index 640
+thread 641 vai multiplicar o index 641
+thread 280 terminou
+thread 642 vai multiplicar o index 642
+thread 643 vai multiplicar o index 643
+thread 644 vai multiplicar o index 644
+thread 645 vai multiplicar o index 645
+thread 646 vai multiplicar o index 646
+thread 647 vai multiplicar o index 647
+thread 648 vai multiplicar o index 648
+thread 649 vai multiplicar o index 649
+thread 650 vai multiplicar o index 650
+thread 651 vai multiplicar o index 651
+thread 294 terminou
+thread 281 terminou
+thread 288 terminou
+thread 297 terminou
+thread 292 terminou
+thread 291 terminou
+thread 652 vai multiplicar o index 652
+thread 264 terminou
+thread 303 terminou
+thread 287 terminou
+thread 318 terminou
+thread 271 terminou
+thread 272 terminou
+thread 296 terminou
+thread 653 vai multiplicar o index 653
+thread 315 terminou
+thread 289 terminou
+thread 654 vai multiplicar o index 654
+thread 328 terminou
+thread 311 terminou
+thread 334 terminou
+thread 655 vai multiplicar o index 655
+thread 656 vai multiplicar o index 656
+thread 299 terminou
+thread 657 vai multiplicar o index 657
+thread 312 terminou
+thread 658 vai multiplicar o index 658
+thread 659 vai multiplicar o index 659
+thread 660 vai multiplicar o index 660
+thread 661 vai multiplicar o index 661
+thread 662 vai multiplicar o index 662
+thread 305 terminou
+thread 663 vai multiplicar o index 663
+thread 664 vai multiplicar o index 664
+thread 665 vai multiplicar o index 665
+thread 293 terminou
+thread 313 terminou
+thread 300 terminou
+thread 286 terminou
+thread 336 terminou
+thread 268 terminou
+thread 666 vai multiplicar o index 666
+thread 667 vai multiplicar o index 667
+thread 668 vai multiplicar o index 668
+thread 319 terminou
+thread 669 vai multiplicar o index 669
+thread 330 terminou
+thread 670 vai multiplicar o index 670
+thread 323 terminou
+thread 671 vai multiplicar o index 671
+thread 310 terminou
+thread 672 vai multiplicar o index 672
+thread 673 vai multiplicar o index 673
+thread 301 terminou
+thread 674 vai multiplicar o index 674
+thread 338 terminou
+thread 675 vai multiplicar o index 675
+thread 676 vai multiplicar o index 676
+thread 677 vai multiplicar o index 677
+thread 321 terminou
+thread 678 vai multiplicar o index 678
+thread 679 vai multiplicar o index 679
+thread 335 terminou
+thread 680 vai multiplicar o index 680
+thread 681 vai multiplicar o index 681
+thread 682 vai multiplicar o index 682
+thread 683 vai multiplicar o index 683
+thread 684 vai multiplicar o index 684
+thread 685 vai multiplicar o index 685
+thread 686 vai multiplicar o index 686
+thread 687 vai multiplicar o index 687
+thread 688 vai multiplicar o index 688
+thread 290 terminou
+thread 689 vai multiplicar o index 689
+thread 298 terminou
+thread 690 vai multiplicar o index 690
+thread 691 vai multiplicar o index 691
+thread 692 vai multiplicar o index 692
+thread 693 vai multiplicar o index 693
+thread 694 vai multiplicar o index 694
+thread 695 vai multiplicar o index 695
+thread 696 vai multiplicar o index 696
+thread 697 vai multiplicar o index 697
+thread 698 vai multiplicar o index 698
+thread 699 vai multiplicar o index 699
+thread 700 vai multiplicar o index 700
+thread 701 vai multiplicar o index 701
+thread 702 vai multiplicar o index 702
+thread 345 terminou
+thread 703 vai multiplicar o index 703
+thread 704 vai multiplicar o index 704
+thread 705 vai multiplicar o index 705
+thread 706 vai multiplicar o index 706
+thread 707 vai multiplicar o index 707
+thread 708 vai multiplicar o index 708
+thread 709 vai multiplicar o index 709
+thread 710 vai multiplicar o index 710
+thread 711 vai multiplicar o index 711
+thread 333 terminou
+thread 712 vai multiplicar o index 712
+thread 713 vai multiplicar o index 713
+thread 714 vai multiplicar o index 714
+thread 715 vai multiplicar o index 715
+thread 716 vai multiplicar o index 716
+thread 717 vai multiplicar o index 717
+thread 718 vai multiplicar o index 718
+thread 339 terminou
+thread 719 vai multiplicar o index 719
+thread 720 vai multiplicar o index 720
+thread 721 vai multiplicar o index 721
+thread 320 terminou
+thread 722 vai multiplicar o index 722
+thread 309 terminou
+thread 723 vai multiplicar o index 723
+thread 724 vai multiplicar o index 724
+thread 342 terminou
+thread 725 vai multiplicar o index 725
+thread 327 terminou
+thread 726 vai multiplicar o index 726
+thread 727 vai multiplicar o index 727
+thread 307 terminou
+thread 314 terminou
+thread 325 terminou
+thread 324 terminou
+thread 340 terminou
+thread 329 terminou
+thread 341 terminou
+thread 728 vai multiplicar o index 728
+thread 322 terminou
+thread 729 vai multiplicar o index 729
+thread 730 vai multiplicar o index 730
+thread 731 vai multiplicar o index 731
+thread 344 terminou
+thread 732 vai multiplicar o index 732
+thread 733 vai multiplicar o index 733
+thread 346 terminou
+thread 734 vai multiplicar o index 734
+thread 735 vai multiplicar o index 735
+thread 332 terminou
+thread 736 vai multiplicar o index 736
+thread 737 vai multiplicar o index 737
+thread 738 vai multiplicar o index 738
+thread 343 terminou
+thread 351 terminou
+thread 739 vai multiplicar o index 739
+thread 740 vai multiplicar o index 740
+thread 741 vai multiplicar o index 741
+thread 742 vai multiplicar o index 742
+thread 743 vai multiplicar o index 743
+thread 744 vai multiplicar o index 744
+thread 745 vai multiplicar o index 745
+thread 746 vai multiplicar o index 746
+thread 355 terminou
+thread 747 vai multiplicar o index 747
+thread 352 terminou
+thread 331 terminou
+thread 347 terminou
+thread 748 vai multiplicar o index 748
+thread 749 vai multiplicar o index 749
+thread 750 vai multiplicar o index 750
+thread 751 vai multiplicar o index 751
+thread 752 vai multiplicar o index 752
+thread 369 terminou
+thread 349 terminou
+thread 753 vai multiplicar o index 753
+thread 754 vai multiplicar o index 754
+thread 354 terminou
+thread 361 terminou
+thread 353 terminou
+thread 365 terminou
+thread 755 vai multiplicar o index 755
+thread 308 terminou
+thread 756 vai multiplicar o index 756
+thread 757 vai multiplicar o index 757
+thread 758 vai multiplicar o index 758
+thread 759 vai multiplicar o index 759
+thread 760 vai multiplicar o index 760
+thread 761 vai multiplicar o index 761
+thread 762 vai multiplicar o index 762
+thread 763 vai multiplicar o index 763
+thread 326 terminou
+thread 764 vai multiplicar o index 764
+thread 350 terminou
+thread 362 terminou
+thread 367 terminou
+thread 368 terminou
+thread 765 vai multiplicar o index 765
+thread 766 vai multiplicar o index 766
+thread 767 vai multiplicar o index 767
+thread 768 vai multiplicar o index 768
+thread 769 vai multiplicar o index 769
+thread 770 vai multiplicar o index 770
+thread 371 terminou
+thread 771 vai multiplicar o index 771
+thread 772 vai multiplicar o index 772
+thread 773 vai multiplicar o index 773
+thread 774 vai multiplicar o index 774
+thread 775 vai multiplicar o index 775
+thread 348 terminou
+thread 776 vai multiplicar o index 776
+thread 777 vai multiplicar o index 777
+thread 778 vai multiplicar o index 778
+thread 779 vai multiplicar o index 779
+thread 780 vai multiplicar o index 780
+thread 781 vai multiplicar o index 781
+thread 782 vai multiplicar o index 782
+thread 337 terminou
+thread 783 vai multiplicar o index 783
+thread 359 terminou
+thread 784 vai multiplicar o index 784
+thread 785 vai multiplicar o index 785
+thread 786 vai multiplicar o index 786
+thread 787 vai multiplicar o index 787
+thread 788 vai multiplicar o index 788
+thread 789 vai multiplicar o index 789
+thread 790 vai multiplicar o index 790
+thread 791 vai multiplicar o index 791
+thread 792 vai multiplicar o index 792
+thread 793 vai multiplicar o index 793
+thread 794 vai multiplicar o index 794
+thread 795 vai multiplicar o index 795
+thread 796 vai multiplicar o index 796
+thread 797 vai multiplicar o index 797
+thread 360 terminou
+thread 798 vai multiplicar o index 798
+thread 358 terminou
+thread 799 vai multiplicar o index 799
+thread 800 vai multiplicar o index 800
+thread 801 vai multiplicar o index 801
+thread 802 vai multiplicar o index 802
+thread 803 vai multiplicar o index 803
+thread 804 vai multiplicar o index 804
+thread 370 terminou
+thread 357 terminou
+thread 805 vai multiplicar o index 805
+thread 374 terminou
+thread 806 vai multiplicar o index 806
+thread 363 terminou
+thread 807 vai multiplicar o index 807
+thread 376 terminou
+thread 808 vai multiplicar o index 808
+thread 809 vai multiplicar o index 809
+thread 810 vai multiplicar o index 810
+thread 811 vai multiplicar o index 811
+thread 812 vai multiplicar o index 812
+thread 379 terminou
+thread 813 vai multiplicar o index 813
+thread 814 vai multiplicar o index 814
+thread 815 vai multiplicar o index 815
+thread 816 vai multiplicar o index 816
+thread 817 vai multiplicar o index 817
+thread 818 vai multiplicar o index 818
+thread 819 vai multiplicar o index 819
+thread 820 vai multiplicar o index 820
+thread 821 vai multiplicar o index 821
+thread 356 terminou
+thread 822 vai multiplicar o index 822
+thread 823 vai multiplicar o index 823
+thread 824 vai multiplicar o index 824
+thread 825 vai multiplicar o index 825
+thread 826 vai multiplicar o index 826
+thread 364 terminou
+thread 827 vai multiplicar o index 827
+thread 828 vai multiplicar o index 828
+thread 829 vai multiplicar o index 829
+thread 830 vai multiplicar o index 830
+thread 386 terminou
+thread 381 terminou
+thread 378 terminou
+thread 831 vai multiplicar o index 831
+thread 832 vai multiplicar o index 832
+thread 833 vai multiplicar o index 833
+thread 834 vai multiplicar o index 834
+thread 835 vai multiplicar o index 835
+thread 377 terminou
+thread 836 vai multiplicar o index 836
+thread 837 vai multiplicar o index 837
+thread 838 vai multiplicar o index 838
+thread 372 terminou
+thread 380 terminou
+thread 409 terminou
+thread 375 terminou
+thread 366 terminou
+thread 839 vai multiplicar o index 839
+thread 396 terminou
+thread 385 terminou
+thread 840 vai multiplicar o index 840
+thread 841 vai multiplicar o index 841
+thread 842 vai multiplicar o index 842
+thread 843 vai multiplicar o index 843
+thread 844 vai multiplicar o index 844
+thread 845 vai multiplicar o index 845
+thread 373 terminou
+thread 387 terminou
+thread 846 vai multiplicar o index 846
+thread 847 vai multiplicar o index 847
+thread 848 vai multiplicar o index 848
+thread 849 vai multiplicar o index 849
+thread 850 vai multiplicar o index 850
+thread 851 vai multiplicar o index 851
+thread 382 terminou
+thread 852 vai multiplicar o index 852
+thread 853 vai multiplicar o index 853
+thread 854 vai multiplicar o index 854
+thread 388 terminou
+thread 855 vai multiplicar o index 855
+thread 856 vai multiplicar o index 856
+thread 857 vai multiplicar o index 857
+thread 858 vai multiplicar o index 858
+thread 859 vai multiplicar o index 859
+thread 860 vai multiplicar o index 860
+thread 861 vai multiplicar o index 861
+thread 406 terminou
+thread 862 vai multiplicar o index 862
+thread 863 vai multiplicar o index 863
+thread 864 vai multiplicar o index 864
+thread 865 vai multiplicar o index 865
+thread 866 vai multiplicar o index 866
+thread 867 vai multiplicar o index 867
+thread 868 vai multiplicar o index 868
+thread 869 vai multiplicar o index 869
+thread 870 vai multiplicar o index 870
+thread 871 vai multiplicar o index 871
+thread 872 vai multiplicar o index 872
+thread 873 vai multiplicar o index 873
+thread 874 vai multiplicar o index 874
+thread 875 vai multiplicar o index 875
+thread 413 terminou
+thread 390 terminou
+thread 876 vai multiplicar o index 876
+thread 877 vai multiplicar o index 877
+thread 392 terminou
+thread 400 terminou
+thread 393 terminou
+thread 878 vai multiplicar o index 878
+thread 879 vai multiplicar o index 879
+thread 880 vai multiplicar o index 880
+thread 881 vai multiplicar o index 881
+thread 882 vai multiplicar o index 882
+thread 408 terminou
+thread 883 vai multiplicar o index 883
+thread 884 vai multiplicar o index 884
+thread 885 vai multiplicar o index 885
+thread 886 vai multiplicar o index 886
+thread 383 terminou
+thread 887 vai multiplicar o index 887
+thread 888 vai multiplicar o index 888
+thread 889 vai multiplicar o index 889
+thread 394 terminou
+thread 890 vai multiplicar o index 890
+thread 891 vai multiplicar o index 891
+thread 892 vai multiplicar o index 892
+thread 391 terminou
+thread 893 vai multiplicar o index 893
+thread 415 terminou
+thread 401 terminou
+thread 403 terminou
+thread 395 terminou
+thread 411 terminou
+thread 894 vai multiplicar o index 894
+thread 384 terminou
+thread 404 terminou
+thread 895 vai multiplicar o index 895
+thread 896 vai multiplicar o index 896
+thread 897 vai multiplicar o index 897
+thread 898 vai multiplicar o index 898
+thread 899 vai multiplicar o index 899
+thread 900 vai multiplicar o index 900
+thread 901 vai multiplicar o index 901
+thread 902 vai multiplicar o index 902
+thread 402 terminou
+thread 903 vai multiplicar o index 903
+thread 904 vai multiplicar o index 904
+thread 412 terminou
+thread 416 terminou
+thread 905 vai multiplicar o index 905
+thread 906 vai multiplicar o index 906
+thread 410 terminou
+thread 907 vai multiplicar o index 907
+thread 908 vai multiplicar o index 908
+thread 909 vai multiplicar o index 909
+thread 397 terminou
+thread 405 terminou
+thread 910 vai multiplicar o index 910
+thread 418 terminou
+thread 911 vai multiplicar o index 911
+thread 912 vai multiplicar o index 912
+thread 913 vai multiplicar o index 913
+thread 389 terminou
+thread 914 vai multiplicar o index 914
+thread 398 terminou
+thread 915 vai multiplicar o index 915
+thread 407 terminou
+thread 916 vai multiplicar o index 916
+thread 420 terminou
+thread 917 vai multiplicar o index 917
+thread 918 vai multiplicar o index 918
+thread 919 vai multiplicar o index 919
+thread 920 vai multiplicar o index 920
+thread 429 terminou
+thread 921 vai multiplicar o index 921
+thread 422 terminou
+thread 922 vai multiplicar o index 922
+thread 417 terminou
+thread 421 terminou
+thread 923 vai multiplicar o index 923
+thread 924 vai multiplicar o index 924
+thread 925 vai multiplicar o index 925
+thread 926 vai multiplicar o index 926
+thread 927 vai multiplicar o index 927
+thread 928 vai multiplicar o index 928
+thread 399 terminou
+thread 929 vai multiplicar o index 929
+thread 930 vai multiplicar o index 930
+thread 427 terminou
+thread 428 terminou
+thread 931 vai multiplicar o index 931
+thread 932 vai multiplicar o index 932
+thread 423 terminou
+thread 933 vai multiplicar o index 933
+thread 934 vai multiplicar o index 934
+thread 935 vai multiplicar o index 935
+thread 424 terminou
+thread 936 vai multiplicar o index 936
+thread 937 vai multiplicar o index 937
+thread 938 vai multiplicar o index 938
+thread 419 terminou
+thread 430 terminou
+thread 939 vai multiplicar o index 939
+thread 940 vai multiplicar o index 940
+thread 435 terminou
+thread 414 terminou
+thread 941 vai multiplicar o index 941
+thread 433 terminou
+thread 942 vai multiplicar o index 942
+thread 425 terminou
+thread 426 terminou
+thread 943 vai multiplicar o index 943
+thread 944 vai multiplicar o index 944
+thread 453 terminou
+thread 945 vai multiplicar o index 945
+thread 946 vai multiplicar o index 946
+thread 947 vai multiplicar o index 947
+thread 948 vai multiplicar o index 948
+thread 949 vai multiplicar o index 949
+thread 950 vai multiplicar o index 950
+thread 951 vai multiplicar o index 951
+thread 952 vai multiplicar o index 952
+thread 443 terminou
+thread 953 vai multiplicar o index 953
+thread 954 vai multiplicar o index 954
+thread 431 terminou
+thread 955 vai multiplicar o index 955
+thread 452 terminou
+thread 956 vai multiplicar o index 956
+thread 432 terminou
+thread 957 vai multiplicar o index 957
+thread 958 vai multiplicar o index 958
+thread 959 vai multiplicar o index 959
+thread 960 vai multiplicar o index 960
+thread 434 terminou
+thread 961 vai multiplicar o index 961
+thread 962 vai multiplicar o index 962
+thread 963 vai multiplicar o index 963
+thread 964 vai multiplicar o index 964
+thread 965 vai multiplicar o index 965
+thread 966 vai multiplicar o index 966
+thread 967 vai multiplicar o index 967
+thread 968 vai multiplicar o index 968
+thread 444 terminou
+thread 969 vai multiplicar o index 969
+thread 970 vai multiplicar o index 970
+thread 436 terminou
+thread 971 vai multiplicar o index 971
+thread 972 vai multiplicar o index 972
+thread 437 terminou
+thread 445 terminou
+thread 973 vai multiplicar o index 973
+thread 974 vai multiplicar o index 974
+thread 449 terminou
+thread 975 vai multiplicar o index 975
+thread 976 vai multiplicar o index 976
+thread 977 vai multiplicar o index 977
+thread 978 vai multiplicar o index 978
+thread 979 vai multiplicar o index 979
+thread 438 terminou
+thread 440 terminou
+thread 980 vai multiplicar o index 980
+thread 981 vai multiplicar o index 981
+thread 982 vai multiplicar o index 982
+thread 983 vai multiplicar o index 983
+thread 984 vai multiplicar o index 984
+thread 455 terminou
+thread 985 vai multiplicar o index 985
+thread 447 terminou
+thread 457 terminou
+thread 986 vai multiplicar o index 986
+thread 987 vai multiplicar o index 987
+thread 988 vai multiplicar o index 988
+thread 989 vai multiplicar o index 989
+thread 990 vai multiplicar o index 990
+thread 991 vai multiplicar o index 991
+thread 992 vai multiplicar o index 992
+thread 993 vai multiplicar o index 993
+thread 994 vai multiplicar o index 994
+thread 995 vai multiplicar o index 995
+thread 442 terminou
+thread 441 terminou
+thread 451 terminou
+thread 996 vai multiplicar o index 996
+thread 463 terminou
+thread 997 vai multiplicar o index 997
+thread 998 vai multiplicar o index 998
+thread 470 terminou
+thread 454 terminou
+thread 999 vai multiplicar o index 999
+thread 448 terminou
+thread 464 terminou
+thread 1000 vai multiplicar o index 1000
+thread 1001 vai multiplicar o index 1001
+thread 458 terminou
+thread 1002 vai multiplicar o index 1002
+thread 439 terminou
+thread 1003 vai multiplicar o index 1003
+thread 1004 vai multiplicar o index 1004
+thread 1005 vai multiplicar o index 1005
+thread 1006 vai multiplicar o index 1006
+thread 450 terminou
+thread 1007 vai multiplicar o index 1007
+thread 456 terminou
+thread 1008 vai multiplicar o index 1008
+thread 469 terminou
+thread 1009 vai multiplicar o index 1009
+thread 1010 vai multiplicar o index 1010
+thread 1011 vai multiplicar o index 1011
+thread 459 terminou
+thread 466 terminou
+thread 460 terminou
+thread 1012 vai multiplicar o index 1012
+thread 1013 vai multiplicar o index 1013
+thread 1014 vai multiplicar o index 1014
+thread 1015 vai multiplicar o index 1015
+thread 1016 vai multiplicar o index 1016
+thread 1017 vai multiplicar o index 1017
+thread 1018 vai multiplicar o index 1018
+thread 472 terminou
+thread 1019 vai multiplicar o index 1019
+thread 1020 vai multiplicar o index 1020
+thread 468 terminou
+thread 1021 vai multiplicar o index 1021
+thread 1022 vai multiplicar o index 1022
+thread 474 terminou
+thread 461 terminou
+thread 1023 vai multiplicar o index 1023
+thread 446 terminou
+
+
+
+thread 465 terminou
+thread 471 terminou
+thread 475 terminou
+thread 489 terminou
+thread 473 terminou
+thread 479 terminou
+thread 491 terminou
+thread 507 terminou
+thread 478 terminou
+thread 467 terminou
+thread 495 terminou
+thread 476 terminou
+thread 483 terminou
+thread 509 terminou
+thread 486 terminou
+thread 492 terminou
+thread 480 terminou
+thread 462 terminou
+thread 504 terminou
+thread 481 terminou
+thread 487 terminou
+thread 512 terminou
+thread 500 terminou
+thread 497 terminou
+thread 502 terminou
+thread 482 terminou
+thread 484 terminou
+thread 524 terminou
+thread 503 terminou
+thread 493 terminou
+thread 526 terminou
+thread 499 terminou
+thread 477 terminou
+thread 510 terminou
+thread 488 terminou
+thread 508 terminou
+thread 513 terminou
+thread 496 terminou
+thread 485 terminou
+thread 518 terminou
+thread 506 terminou
+thread 519 terminou
+thread 520 terminou
+thread 505 terminou
+thread 511 terminou
+thread 490 terminou
+thread 494 terminou
+thread 501 terminou
+thread 522 terminou
+thread 517 terminou
+thread 532 terminou
+thread 514 terminou
+thread 525 terminou
+thread 516 terminou
+thread 539 terminou
+thread 515 terminou
+thread 498 terminou
+thread 548 terminou
+thread 538 terminou
+thread 533 terminou
+thread 530 terminou
+thread 521 terminou
+thread 527 terminou
+thread 535 terminou
+thread 561 terminou
+thread 528 terminou
+thread 540 terminou
+thread 543 terminou
+thread 529 terminou
+thread 552 terminou
+thread 534 terminou
+thread 560 terminou
+thread 542 terminou
+thread 546 terminou
+thread 549 terminou
+thread 536 terminou
+thread 537 terminou
+thread 564 terminou
+thread 547 terminou
+thread 555 terminou
+thread 553 terminou
+thread 545 terminou
+thread 571 terminou
+thread 531 terminou
+thread 573 terminou
+thread 523 terminou
+thread 544 terminou
+thread 559 terminou
+thread 551 terminou
+thread 541 terminou
+thread 554 terminou
+thread 576 terminou
+thread 558 terminou
+thread 568 terminou
+thread 577 terminou
+thread 566 terminou
+thread 567 terminou
+thread 590 terminou
+thread 574 terminou
+thread 586 terminou
+thread 583 terminou
+thread 578 terminou
+thread 570 terminou
+thread 557 terminou
+thread 565 terminou
+thread 562 terminou
+thread 584 terminou
+thread 550 terminou
+thread 569 terminou
+thread 556 terminou
+thread 580 terminou
+thread 579 terminou
+thread 581 terminou
+thread 563 terminou
+thread 589 terminou
+thread 572 terminou
+thread 594 terminou
+thread 596 terminou
+thread 614 terminou
+thread 588 terminou
+thread 621 terminou
+thread 587 terminou
+thread 582 terminou
+thread 598 terminou
+thread 602 terminou
+thread 627 terminou
+thread 601 terminou
+thread 575 terminou
+thread 604 terminou
+thread 629 terminou
+thread 585 terminou
+thread 603 terminou
+thread 592 terminou
+thread 634 terminou
+thread 625 terminou
+thread 607 terminou
+thread 610 terminou
+thread 624 terminou
+thread 593 terminou
+thread 606 terminou
+thread 595 terminou
+thread 647 terminou
+thread 611 terminou
+thread 648 terminou
+thread 597 terminou
+thread 608 terminou
+thread 615 terminou
+thread 591 terminou
+thread 600 terminou
+thread 605 terminou
+thread 617 terminou
+thread 599 terminou
+thread 626 terminou
+thread 639 terminou
+thread 609 terminou
+thread 613 terminou
+thread 641 terminou
+thread 616 terminou
+thread 618 terminou
+thread 638 terminou
+thread 645 terminou
+thread 643 terminou
+thread 612 terminou
+thread 671 terminou
+thread 652 terminou
+thread 646 terminou
+thread 636 terminou
+thread 631 terminou
+thread 640 terminou
+thread 649 terminou
+thread 622 terminou
+thread 658 terminou
+thread 650 terminou
+thread 620 terminou
+thread 633 terminou
+thread 635 terminou
+thread 619 terminou
+thread 655 terminou
+thread 665 terminou
+thread 637 terminou
+thread 632 terminou
+thread 663 terminou
+thread 667 terminou
+thread 630 terminou
+thread 623 terminou
+thread 644 terminou
+thread 677 terminou
+thread 651 terminou
+thread 670 terminou
+thread 669 terminou
+thread 679 terminou
+thread 628 terminou
+thread 661 terminou
+thread 685 terminou
+thread 666 terminou
+thread 673 terminou
+thread 662 terminou
+thread 672 terminou
+thread 692 terminou
+thread 705 terminou
+thread 653 terminou
+thread 704 terminou
+thread 656 terminou
+thread 654 terminou
+thread 682 terminou
+thread 695 terminou
+thread 684 terminou
+thread 668 terminou
+thread 660 terminou
+thread 686 terminou
+thread 698 terminou
+thread 689 terminou
+thread 675 terminou
+thread 696 terminou
+thread 694 terminou
+thread 659 terminou
+thread 683 terminou
+thread 706 terminou
+thread 687 terminou
+thread 676 terminou
+thread 701 terminou
+thread 721 terminou
+thread 664 terminou
+thread 657 terminou
+thread 716 terminou
+thread 680 terminou
+thread 642 terminou
+thread 703 terminou
+thread 713 terminou
+thread 690 terminou
+thread 709 terminou
+thread 691 terminou
+thread 681 terminou
+thread 700 terminou
+thread 718 terminou
+thread 708 terminou
+thread 674 terminou
+thread 717 terminou
+thread 697 terminou
+thread 712 terminou
+thread 702 terminou
+thread 722 terminou
+thread 731 terminou
+thread 688 terminou
+thread 678 terminou
+thread 719 terminou
+thread 739 terminou
+thread 723 terminou
+thread 699 terminou
+thread 725 terminou
+thread 734 terminou
+thread 707 terminou
+thread 733 terminou
+thread 693 terminou
+thread 711 terminou
+thread 741 terminou
+thread 751 terminou
+thread 710 terminou
+thread 748 terminou
+thread 738 terminou
+thread 742 terminou
+thread 727 terminou
+thread 728 terminou
+thread 714 terminou
+thread 732 terminou
+thread 715 terminou
+thread 735 terminou
+thread 724 terminou
+thread 729 terminou
+thread 730 terminou
+thread 743 terminou
+thread 720 terminou
+thread 737 terminou
+thread 757 terminou
+thread 744 terminou
+thread 747 terminou
+thread 746 terminou
+thread 749 terminou
+thread 759 terminou
+thread 736 terminou
+thread 745 terminou
+thread 776 terminou
+thread 787 terminou
+thread 763 terminou
+thread 771 terminou
+thread 772 terminou
+thread 726 terminou
+thread 754 terminou
+thread 750 terminou
+thread 752 terminou
+thread 788 terminou
+thread 760 terminou
+thread 782 terminou
+thread 804 terminou
+thread 765 terminou
+thread 767 terminou
+thread 775 terminou
+thread 777 terminou
+thread 769 terminou
+thread 768 terminou
+thread 780 terminou
+thread 778 terminou
+thread 789 terminou
+thread 792 terminou
+thread 756 terminou
+thread 753 terminou
+thread 766 terminou
+thread 764 terminou
+thread 779 terminou
+thread 755 terminou
+thread 761 terminou
+thread 770 terminou
+thread 790 terminou
+thread 773 terminou
+thread 816 terminou
+thread 740 terminou
+thread 783 terminou
+thread 807 terminou
+thread 762 terminou
+thread 785 terminou
+thread 798 terminou
+thread 808 terminou
+thread 758 terminou
+thread 784 terminou
+thread 829 terminou
+thread 802 terminou
+thread 796 terminou
+thread 795 terminou
+thread 774 terminou
+thread 791 terminou
+thread 810 terminou
+thread 781 terminou
+thread 793 terminou
+thread 824 terminou
+thread 797 terminou
+thread 835 terminou
+thread 806 terminou
+thread 819 terminou
+thread 815 terminou
+thread 820 terminou
+thread 828 terminou
+thread 817 terminou
+thread 833 terminou
+thread 839 terminou
+thread 809 terminou
+thread 831 terminou
+thread 827 terminou
+thread 823 terminou
+thread 786 terminou
+thread 799 terminou
+thread 826 terminou
+thread 811 terminou
+thread 803 terminou
+thread 814 terminou
+thread 813 terminou
+thread 805 terminou
+thread 800 terminou
+thread 830 terminou
+thread 821 terminou
+thread 794 terminou
+thread 801 terminou
+thread 845 terminou
+thread 840 terminou
+thread 818 terminou
+thread 825 terminou
+thread 822 terminou
+thread 842 terminou
+thread 851 terminou
+thread 836 terminou
+thread 838 terminou
+thread 843 terminou
+thread 834 terminou
+thread 812 terminou
+thread 861 terminou
+thread 837 terminou
+thread 832 terminou
+thread 857 terminou
+thread 850 terminou
+thread 867 terminou
+thread 841 terminou
+thread 846 terminou
+thread 859 terminou
+thread 872 terminou
+thread 852 terminou
+thread 862 terminou
+thread 844 terminou
+thread 853 terminou
+thread 882 terminou
+thread 873 terminou
+thread 868 terminou
+thread 876 terminou
+thread 871 terminou
+thread 849 terminou
+thread 847 terminou
+thread 854 terminou
+thread 906 terminou
+thread 864 terminou
+thread 874 terminou
+thread 848 terminou
+thread 877 terminou
+thread 879 terminou
+thread 855 terminou
+thread 870 terminou
+thread 888 terminou
+thread 858 terminou
+thread 896 terminou
+thread 884 terminou
+thread 892 terminou
+thread 898 terminou
+thread 878 terminou
+thread 875 terminou
+thread 889 terminou
+thread 894 terminou
+thread 886 terminou
+thread 893 terminou
+thread 863 terminou
+thread 860 terminou
+thread 897 terminou
+thread 885 terminou
+thread 865 terminou
+thread 907 terminou
+thread 917 terminou
+thread 919 terminou
+thread 866 terminou
+thread 881 terminou
+thread 880 terminou
+thread 887 terminou
+thread 922 terminou
+thread 856 terminou
+thread 899 terminou
+thread 883 terminou
+thread 934 terminou
+thread 904 terminou
+thread 901 terminou
+thread 891 terminou
+thread 916 terminou
+thread 890 terminou
+thread 900 terminou
+thread 957 terminou
+thread 869 terminou
+thread 930 terminou
+thread 918 terminou
+thread 921 terminou
+thread 931 terminou
+thread 911 terminou
+thread 905 terminou
+thread 908 terminou
+thread 914 terminou
+thread 912 terminou
+thread 895 terminou
+thread 915 terminou
+thread 909 terminou
+thread 935 terminou
+thread 920 terminou
+thread 925 terminou
+thread 902 terminou
+thread 943 terminou
+thread 937 terminou
+thread 951 terminou
+thread 932 terminou
+thread 910 terminou
+thread 923 terminou
+thread 950 terminou
+thread 959 terminou
+thread 933 terminou
+thread 936 terminou
+thread 927 terminou
+thread 978 terminou
+thread 903 terminou
+thread 983 terminou
+thread 948 terminou
+thread 940 terminou
+thread 945 terminou
+thread 946 terminou
+thread 928 terminou
+thread 949 terminou
+thread 941 terminou
+thread 979 terminou
+thread 972 terminou
+thread 955 terminou
+thread 924 terminou
+thread 967 terminou
+thread 995 terminou
+thread 952 terminou
+thread 938 terminou
+thread 977 terminou
+thread 942 terminou
+thread 963 terminou
+thread 953 terminou
+thread 944 terminou
+thread 976 terminou
+thread 990 terminou
+thread 929 terminou
+thread 913 terminou
+thread 969 terminou
+thread 970 terminou
+thread 954 terminou
+thread 974 terminou
+thread 975 terminou
+thread 939 terminou
+thread 962 terminou
+thread 989 terminou
+thread 947 terminou
+thread 961 terminou
+thread 998 terminou
+thread 997 terminou
+thread 982 terminou
+thread 1002 terminou
+thread 964 terminou
+thread 960 terminou
+thread 958 terminou
+thread 956 terminou
+thread 926 terminou
+thread 971 terminou
+thread 980 terminou
+thread 965 terminou
+thread 1001 terminou
+thread 973 terminou
+thread 992 terminou
+thread 986 terminou
+thread 991 terminou
+thread 984 terminou
+thread 981 terminou
+thread 987 terminou
+thread 1003 terminou
+thread 999 terminou
+thread 966 terminou
+thread 1019 terminou
+thread 993 terminou
+thread 968 terminou
+thread 988 terminou
+thread 1018 terminou
+thread 1009 terminou
+thread 996 terminou
+thread 1010 terminou
+thread 1014 terminou
+thread 1020 terminou
+thread 985 terminou
+thread 1000 terminou
+thread 1016 terminou
+thread 1022 terminou
+thread 1005 terminou
+thread 1015 terminou
+thread 1017 terminou
+thread 1007 terminou
+thread 1023 terminou
+thread 1008 terminou
+thread 1004 terminou
+thread 1013 terminou
+thread 1012 terminou
+thread 1006 terminou
+thread 994 terminou
+thread 1021 terminou
+thread 1011 terminou

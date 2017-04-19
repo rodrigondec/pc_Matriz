@@ -1,0 +1,11 @@
+read: 0.5380938053131104
+
+execute 1: 94.94104480743408
+execute 2: 103.74760842323303
+execute 3: 100.22641158103943
+
+print: 3.59358286857605
+
+Tempo total de execução: 298.91506481170654
+Tempo medio de execução: 99.63835493723552
+Tempo medio de execução + read + print: 103.77003161112468

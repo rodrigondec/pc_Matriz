@@ -3,6 +3,10 @@ from matriz import fazer_matriz, load_matrizes, print_matriz
 import threading
 from threading import Thread
 
+index_matrizes = 0
+qt_execucoes = 20
+divisor_threads = 1
+
 def setup_logger(logger_name, log_file, level=logging.INFO):
     l = logging.getLogger(logger_name)
     formatter = logging.Formatter('%(message)s')
@@ -39,7 +43,7 @@ tempo_read = 0
 tempo_print = 0
 
 start = time.time()
-matrizes = load_matrizes(5)
+matrizes = load_matrizes(index_matrizes)
 end = time.time()
 
 tempo = end - start
@@ -49,7 +53,7 @@ a = matrizes[0]
 b = matrizes[1]
 resultado = fazer_matriz(len(a), len(b[0]))
 tamanho_matriz = len(a)
-qt_threads = tamanho_matriz
+qt_threads = int(tamanho_matriz/divisor_threads)
 
 setup_logger("log_exec", "log/conc/"+str(tamanho_matriz)+"-"+str(qt_threads)+"_e.txt")
 log_exec = logging.getLogger("log_exec")
@@ -58,7 +62,6 @@ log_threads = logging.getLogger("log_threads")
 
 log_exec.info("read: "+str(tempo_read)+"\n")
 
-qt_execucoes = 20
 for x in range(0, qt_execucoes):
 
 	log_threads.info("execute "+str(x+1))

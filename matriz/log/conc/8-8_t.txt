@@ -4,20 +4,20 @@ thread 0 terminou
 thread 1 vai multiplicar o index 1
 thread 1 terminou
 thread 2 vai multiplicar o index 2
-thread 3 vai multiplicar o index 3
 thread 2 terminou
+thread 3 vai multiplicar o index 3
 thread 3 terminou
 thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
 thread 4 terminou
-thread 6 vai multiplicar o index 6
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
 thread 7 vai multiplicar o index 7
 thread 6 terminou
-
-
-
 thread 7 terminou
+
+
+
 execute 2
 thread 0 vai multiplicar o index 0
 thread 0 terminou
@@ -32,12 +32,12 @@ thread 4 terminou
 thread 5 vai multiplicar o index 5
 thread 5 terminou
 thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
 thread 6 terminou
-
-
-
+thread 7 vai multiplicar o index 7
 thread 7 terminou
+
+
+
 execute 3
 thread 0 vai multiplicar o index 0
 thread 0 terminou
@@ -50,14 +50,14 @@ thread 3 terminou
 thread 4 vai multiplicar o index 4
 thread 4 terminou
 thread 5 vai multiplicar o index 5
-thread 5 terminou
 thread 6 vai multiplicar o index 6
-thread 6 terminou
+thread 5 terminou
 thread 7 vai multiplicar o index 7
+thread 6 terminou
+
+
+
 thread 7 terminou
-
-
-
 execute 4
 thread 0 vai multiplicar o index 0
 thread 0 terminou
@@ -86,77 +86,77 @@ thread 1 terminou
 thread 2 vai multiplicar o index 2
 thread 2 terminou
 thread 3 vai multiplicar o index 3
-thread 3 terminou
 thread 4 vai multiplicar o index 4
-thread 4 terminou
+thread 3 terminou
 thread 5 vai multiplicar o index 5
-thread 5 terminou
+thread 4 terminou
 thread 6 vai multiplicar o index 6
-thread 6 terminou
+thread 5 terminou
 thread 7 vai multiplicar o index 7
+
+
+
+thread 6 terminou
 thread 7 terminou
-
-
-
 execute 6
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 1 terminou
 thread 2 vai multiplicar o index 2
-thread 2 terminou
+thread 1 terminou
 thread 3 vai multiplicar o index 3
-thread 3 terminou
+thread 2 terminou
 thread 4 vai multiplicar o index 4
-thread 4 terminou
+thread 3 terminou
 thread 5 vai multiplicar o index 5
-thread 5 terminou
+thread 4 terminou
 thread 6 vai multiplicar o index 6
-thread 6 terminou
+thread 5 terminou
 thread 7 vai multiplicar o index 7
 
 
 
+thread 6 terminou
 thread 7 terminou
 execute 7
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar o index 5
 thread 5 terminou
-
-
-
+thread 6 vai multiplicar o index 6
 thread 6 terminou
+thread 7 vai multiplicar o index 7
 thread 7 terminou
+
+
+
 execute 8
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 1 terminou
 thread 2 vai multiplicar o index 2
-thread 2 terminou
+thread 1 terminou
 thread 3 vai multiplicar o index 3
-thread 3 terminou
+thread 2 terminou
 thread 4 vai multiplicar o index 4
-thread 4 terminou
 thread 5 vai multiplicar o index 5
-thread 5 terminou
+thread 3 terminou
 thread 6 vai multiplicar o index 6
-thread 6 terminou
 thread 7 vai multiplicar o index 7
+thread 4 terminou
 
 
 
+thread 5 terminou
+thread 6 terminou
 thread 7 terminou
 execute 9
 thread 0 vai multiplicar o index 0
@@ -166,36 +166,36 @@ thread 1 terminou
 thread 2 vai multiplicar o index 2
 thread 2 terminou
 thread 3 vai multiplicar o index 3
-thread 4 vai multiplicar o index 4
 thread 3 terminou
-thread 5 vai multiplicar o index 5
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-thread 6 vai multiplicar o index 6
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
+thread 6 terminou
 thread 7 vai multiplicar o index 7
 
 
 
-thread 6 terminou
 thread 7 terminou
 execute 10
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
+thread 2 vai multiplicar o index 2
 thread 3 vai multiplicar o index 3
 thread 2 terminou
 thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
 thread 3 terminou
+thread 5 vai multiplicar o index 5
 thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
 thread 4 terminou
-
-
-
+thread 7 vai multiplicar o index 7
 thread 5 terminou
+
+
+
 thread 6 terminou
 thread 7 terminou
 execute 11
@@ -204,39 +204,39 @@ thread 0 terminou
 thread 1 vai multiplicar o index 1
 thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
 thread 2 terminou
+thread 3 vai multiplicar o index 3
+thread 3 terminou
 thread 4 vai multiplicar o index 4
 thread 5 vai multiplicar o index 5
-thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
 thread 4 terminou
-
-
-
+thread 6 vai multiplicar o index 6
 thread 5 terminou
+thread 7 vai multiplicar o index 7
 thread 6 terminou
+
+
+
 thread 7 terminou
 execute 12
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar o index 3
 thread 3 terminou
+thread 4 vai multiplicar o index 4
+thread 4 terminou
+thread 5 vai multiplicar o index 5
+thread 5 terminou
 thread 6 vai multiplicar o index 6
 thread 7 vai multiplicar o index 7
-thread 4 terminou
-
-
-
-thread 5 terminou
 thread 6 terminou
+
+
+
 thread 7 terminou
 execute 13
 thread 0 vai multiplicar o index 0
@@ -284,100 +284,100 @@ thread 0 terminou
 thread 1 vai multiplicar o index 1
 thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
 thread 2 terminou
+thread 3 vai multiplicar o index 3
 thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar o index 5
 thread 4 terminou
-
-
-
+thread 6 vai multiplicar o index 6
 thread 5 terminou
+thread 7 vai multiplicar o index 7
+
+
+
 thread 6 terminou
 thread 7 terminou
 execute 16
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-
-
-
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
 thread 6 terminou
+thread 7 vai multiplicar o index 7
 thread 7 terminou
+
+
+
 execute 17
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-
-
-
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
 thread 6 terminou
+thread 7 vai multiplicar o index 7
 thread 7 terminou
+
+
+
 execute 18
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-
-
-
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
 thread 6 terminou
+thread 7 vai multiplicar o index 7
+
+
+
 thread 7 terminou
 execute 19
 thread 0 vai multiplicar o index 0
 thread 0 terminou
 thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar o index 4
 thread 4 terminou
-
-
-
+thread 5 vai multiplicar o index 5
 thread 5 terminou
+thread 6 vai multiplicar o index 6
 thread 6 terminou
+thread 7 vai multiplicar o index 7
 thread 7 terminou
+
+
+
 execute 20
 thread 0 vai multiplicar o index 0
 thread 0 terminou
@@ -387,14 +387,14 @@ thread 1 terminou
 thread 3 vai multiplicar o index 3
 thread 2 terminou
 thread 4 vai multiplicar o index 4
-thread 3 terminou
 thread 5 vai multiplicar o index 5
-thread 4 terminou
+thread 3 terminou
 thread 6 vai multiplicar o index 6
 thread 7 vai multiplicar o index 7
+thread 4 terminou
+
+
+
 thread 5 terminou
-
-
-
 thread 6 terminou
 thread 7 terminou
