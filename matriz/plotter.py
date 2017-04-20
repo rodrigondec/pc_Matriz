@@ -2,6 +2,48 @@ from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 # from plotly.graph_objs import Scatter, Figure, Layout
 import plotly.graph_objs as go
 
+exe2 = go.Scatter(
+    x = [4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048],
+    y = [0.0014370918273925782, 0.0016102910041809082, 0.005096566677093506, 0.0286618709564209, 0.22076541185379028, 1.6623333096504211, 13.470946061611176],
+    name = 'execução 2 threads'
+)
+
+exe4 = go.Scatter(
+    x = [4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 4 threads'
+)
+
+exe8 = go.Scatter(
+    x = [8, 16, 32, 64, 128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 8 threads'
+)
+
+exe16 = go.Scatter(
+    x = [16, 32, 64, 128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 16 threads'
+)
+
+exe32 = go.Scatter(
+    x = [32, 64, 128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 32 threads'
+)
+
+exe64 = go.Scatter(
+    x = [64, 128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 64 threads'
+)
+
+exe128 = go.Scatter(
+    x = [128, 256, 512, 1024, 2048],
+    y = [],
+    name = 'execução 128 threads'
+)
+
 exe = go.Scatter(
     x = [4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048],
     y = [0.0010001659393310547, 0.0003001570701599121, 0.002151501178741455, 0.016561830043792726, 0.13192821741104127, 1.0577330827713012, 8.66782455444336, 70.88982439041138, 494.353955578804, 4289.017854213715],

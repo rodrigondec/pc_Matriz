@@ -1,0 +1,130 @@
+execute 1
+thread 0 vai multiplicar os indexes [0, 1, 2, 3, 4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11, 12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19, 20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27, 28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35, 36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43, 44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51, 52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59, 60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67, 68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75, 76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83, 84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91, 92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99, 100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107, 108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115, 116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123, 124, 125, 126, 127]
+thread 128 vai multiplicar os indexes [128, 129, 130, 131, 132, 133, 134, 135]
+thread 136 vai multiplicar os indexes [136, 137, 138, 139, 140, 141, 142, 143]
+thread 144 vai multiplicar os indexes [144, 145, 146, 147, 148, 149, 150, 151]
+thread 152 vai multiplicar os indexes [152, 153, 154, 155, 156, 157, 158, 159]
+thread 160 vai multiplicar os indexes [160, 161, 162, 163, 164, 165, 166, 167]
+thread 168 vai multiplicar os indexes [168, 169, 170, 171, 172, 173, 174, 175]
+thread 176 vai multiplicar os indexes [176, 177, 178, 179, 180, 181, 182, 183]
+thread 184 vai multiplicar os indexes [184, 185, 186, 187, 188, 189, 190, 191]
+thread 192 vai multiplicar os indexes [192, 193, 194, 195, 196, 197, 198, 199]
+thread 200 vai multiplicar os indexes [200, 201, 202, 203, 204, 205, 206, 207]
+thread 208 vai multiplicar os indexes [208, 209, 210, 211, 212, 213, 214, 215]
+thread 216 vai multiplicar os indexes [216, 217, 218, 219, 220, 221, 222, 223]
+thread 224 vai multiplicar os indexes [224, 225, 226, 227, 228, 229, 230, 231]
+thread 232 vai multiplicar os indexes [232, 233, 234, 235, 236, 237, 238, 239]
+thread 240 vai multiplicar os indexes [240, 241, 242, 243, 244, 245, 246, 247]
+thread 248 vai multiplicar os indexes [248, 249, 250, 251, 252, 253, 254, 255]
+thread 256 vai multiplicar os indexes [256, 257, 258, 259, 260, 261, 262, 263]
+thread 264 vai multiplicar os indexes [264, 265, 266, 267, 268, 269, 270, 271]
+thread 272 vai multiplicar os indexes [272, 273, 274, 275, 276, 277, 278, 279]
+thread 280 vai multiplicar os indexes [280, 281, 282, 283, 284, 285, 286, 287]
+thread 288 vai multiplicar os indexes [288, 289, 290, 291, 292, 293, 294, 295]
+thread 296 vai multiplicar os indexes [296, 297, 298, 299, 300, 301, 302, 303]
+thread 304 vai multiplicar os indexes [304, 305, 306, 307, 308, 309, 310, 311]
+thread 312 vai multiplicar os indexes [312, 313, 314, 315, 316, 317, 318, 319]
+thread 320 vai multiplicar os indexes [320, 321, 322, 323, 324, 325, 326, 327]
+thread 328 vai multiplicar os indexes [328, 329, 330, 331, 332, 333, 334, 335]
+thread 336 vai multiplicar os indexes [336, 337, 338, 339, 340, 341, 342, 343]
+thread 344 vai multiplicar os indexes [344, 345, 346, 347, 348, 349, 350, 351]
+thread 352 vai multiplicar os indexes [352, 353, 354, 355, 356, 357, 358, 359]
+thread 360 vai multiplicar os indexes [360, 361, 362, 363, 364, 365, 366, 367]
+thread 368 vai multiplicar os indexes [368, 369, 370, 371, 372, 373, 374, 375]
+thread 376 vai multiplicar os indexes [376, 377, 378, 379, 380, 381, 382, 383]
+thread 384 vai multiplicar os indexes [384, 385, 386, 387, 388, 389, 390, 391]
+thread 392 vai multiplicar os indexes [392, 393, 394, 395, 396, 397, 398, 399]
+thread 400 vai multiplicar os indexes [400, 401, 402, 403, 404, 405, 406, 407]
+thread 408 vai multiplicar os indexes [408, 409, 410, 411, 412, 413, 414, 415]
+thread 416 vai multiplicar os indexes [416, 417, 418, 419, 420, 421, 422, 423]
+thread 424 vai multiplicar os indexes [424, 425, 426, 427, 428, 429, 430, 431]
+thread 432 vai multiplicar os indexes [432, 433, 434, 435, 436, 437, 438, 439]
+thread 440 vai multiplicar os indexes [440, 441, 442, 443, 444, 445, 446, 447]
+thread 448 vai multiplicar os indexes [448, 449, 450, 451, 452, 453, 454, 455]
+thread 456 vai multiplicar os indexes [456, 457, 458, 459, 460, 461, 462, 463]
+thread 464 vai multiplicar os indexes [464, 465, 466, 467, 468, 469, 470, 471]
+thread 472 vai multiplicar os indexes [472, 473, 474, 475, 476, 477, 478, 479]
+thread 480 vai multiplicar os indexes [480, 481, 482, 483, 484, 485, 486, 487]
+thread 488 vai multiplicar os indexes [488, 489, 490, 491, 492, 493, 494, 495]
+thread 496 vai multiplicar os indexes [496, 497, 498, 499, 500, 501, 502, 503]
+thread 504 vai multiplicar os indexes [504, 505, 506, 507, 508, 509, 510, 511]
+thread 152 terminou
+thread 24 terminou
+thread 0 terminou
+thread 88 terminou
+thread 64 terminou
+thread 304 terminou
+thread 32 terminou
+thread 272 terminou
+thread 48 terminou
+thread 136 terminou
+thread 192 terminou
+thread 112 terminou
+thread 120 terminou
+thread 128 terminou
+thread 248 terminou
+thread 168 terminou
+thread 16 terminou
+thread 40 terminou
+thread 8 terminou
+thread 264 terminou
+thread 96 terminou
+thread 216 terminou
+thread 224 terminou
+thread 360 terminou
+thread 256 terminou
+thread 336 terminou
+thread 200 terminou
+thread 176 terminou
+thread 432 terminou
+thread 328 terminou
+thread 296 terminou
+thread 288 terminou
+thread 208 terminou
+thread 496 terminou
+thread 368 terminou
+thread 104 terminou
+thread 504 terminou
+thread 240 terminou
+thread 320 terminou
+thread 480 terminou
+thread 144 terminou
+thread 400 terminou
+thread 232 terminou
+thread 80 terminou
+thread 280 terminou
+thread 312 terminou
+thread 184 terminou
+thread 408 terminou
+thread 456 terminou
+thread 392 terminou
+thread 416 terminou
+thread 56 terminou
+thread 384 terminou
+thread 72 terminou
+thread 376 terminou
+thread 440 terminou
+thread 160 terminou
+thread 352 terminou
+thread 464 terminou
+thread 448 terminou
+thread 344 terminou
+thread 488 terminou
+thread 424 terminou
+thread 472 terminou
+

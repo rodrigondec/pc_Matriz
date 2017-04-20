@@ -1,540 +1,523 @@
 execute 1
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 6 vai multiplicar o index 6
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 9 vai multiplicar o index 9
-thread 10 vai multiplicar o index 10
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 11 vai multiplicar o index 11
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 12 vai multiplicar o index 12
-thread 13 vai multiplicar o index 13
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 14 vai multiplicar o index 14
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 15 vai multiplicar o index 15
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 19 vai multiplicar o index 19
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 20 vai multiplicar o index 20
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 21 vai multiplicar o index 21
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 22 vai multiplicar o index 22
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 23 vai multiplicar o index 23
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 24 vai multiplicar o index 24
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 22 vai multiplicar os indexes [22]
+thread 23 vai multiplicar os indexes [23]
 thread 22 terminou
-thread 29 vai multiplicar o index 29
+thread 24 vai multiplicar os indexes [24]
 thread 23 terminou
-thread 30 vai multiplicar o index 30
-thread 31 vai multiplicar o index 31
+thread 25 vai multiplicar os indexes [25]
 thread 24 terminou
-
-
-
+thread 26 vai multiplicar os indexes [26]
 thread 25 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 26 terminou
+thread 28 vai multiplicar os indexes [28]
+thread 29 vai multiplicar os indexes [29]
 thread 27 terminou
+thread 30 vai multiplicar os indexes [30]
+thread 31 vai multiplicar os indexes [31]
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 2
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
+thread 3 vai multiplicar os indexes [3]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar os indexes [4]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 5 vai multiplicar os indexes [5]
 thread 4 terminou
+thread 6 vai multiplicar os indexes [6]
 thread 5 terminou
-thread 7 vai multiplicar o index 7
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 8 vai multiplicar o index 8
-thread 9 vai multiplicar o index 9
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
+thread 9 vai multiplicar os indexes [9]
 thread 8 terminou
+thread 10 vai multiplicar os indexes [10]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 11 vai multiplicar os indexes [11]
 thread 10 terminou
-thread 12 vai multiplicar o index 12
+thread 12 vai multiplicar os indexes [12]
 thread 11 terminou
-thread 13 vai multiplicar o index 13
-thread 14 vai multiplicar o index 14
+thread 13 vai multiplicar os indexes [13]
 thread 12 terminou
-thread 15 vai multiplicar o index 15
-thread 16 vai multiplicar o index 16
+thread 14 vai multiplicar os indexes [14]
 thread 13 terminou
-thread 17 vai multiplicar o index 17
+thread 15 vai multiplicar os indexes [15]
 thread 14 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
 thread 15 terminou
+thread 18 vai multiplicar os indexes [18]
 thread 16 terminou
-thread 20 vai multiplicar o index 20
-thread 21 vai multiplicar o index 21
 thread 17 terminou
-thread 22 vai multiplicar o index 22
-thread 23 vai multiplicar o index 23
+thread 19 vai multiplicar os indexes [19]
+thread 20 vai multiplicar os indexes [20]
 thread 18 terminou
-thread 24 vai multiplicar o index 24
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 19 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 23 vai multiplicar os indexes [23]
 thread 20 terminou
-thread 27 vai multiplicar o index 27
+thread 24 vai multiplicar os indexes [24]
 thread 21 terminou
-thread 28 vai multiplicar o index 28
 thread 22 terminou
-thread 29 vai multiplicar o index 29
+thread 25 vai multiplicar os indexes [25]
+thread 26 vai multiplicar os indexes [26]
 thread 23 terminou
-thread 30 vai multiplicar o index 30
+thread 27 vai multiplicar os indexes [27]
 thread 24 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 25 terminou
-thread 31 vai multiplicar o index 31
+thread 29 vai multiplicar os indexes [29]
 thread 26 terminou
-
-
-
+thread 30 vai multiplicar os indexes [30]
 thread 27 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 3
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 6 vai multiplicar o index 6
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 7 vai multiplicar o index 7
-thread 8 vai multiplicar o index 8
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 9 vai multiplicar o index 9
-thread 10 vai multiplicar o index 10
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 11 vai multiplicar o index 11
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 12 vai multiplicar o index 12
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
+thread 10 vai multiplicar os indexes [10]
+thread 11 vai multiplicar os indexes [11]
 thread 10 terminou
-thread 13 vai multiplicar o index 13
-thread 14 vai multiplicar o index 14
+thread 12 vai multiplicar os indexes [12]
 thread 11 terminou
-thread 15 vai multiplicar o index 15
-thread 16 vai multiplicar o index 16
+thread 13 vai multiplicar os indexes [13]
 thread 12 terminou
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 14 vai multiplicar os indexes [14]
 thread 13 terminou
-thread 19 vai multiplicar o index 19
+thread 15 vai multiplicar os indexes [15]
 thread 14 terminou
-thread 20 vai multiplicar o index 20
+thread 16 vai multiplicar os indexes [16]
 thread 15 terminou
-thread 21 vai multiplicar o index 21
+thread 17 vai multiplicar os indexes [17]
 thread 16 terminou
-thread 22 vai multiplicar o index 22
+thread 18 vai multiplicar os indexes [18]
+thread 19 vai multiplicar os indexes [19]
 thread 17 terminou
-thread 23 vai multiplicar o index 23
+thread 20 vai multiplicar os indexes [20]
 thread 18 terminou
-thread 24 vai multiplicar o index 24
+thread 21 vai multiplicar os indexes [21]
 thread 19 terminou
-thread 25 vai multiplicar o index 25
+thread 22 vai multiplicar os indexes [22]
 thread 20 terminou
-thread 26 vai multiplicar o index 26
+thread 23 vai multiplicar os indexes [23]
 thread 21 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 24 vai multiplicar os indexes [24]
 thread 22 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
+thread 25 vai multiplicar os indexes [25]
 thread 23 terminou
-thread 31 vai multiplicar o index 31
-
-
-
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 24 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 25 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 26 terminou
 thread 27 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 28 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 4
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
-thread 9 vai multiplicar o index 9
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 12 vai multiplicar o index 12
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 13 vai multiplicar o index 13
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 14 vai multiplicar o index 14
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 15 vai multiplicar o index 15
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 19 vai multiplicar o index 19
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 20 vai multiplicar o index 20
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 21 vai multiplicar o index 21
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 22 vai multiplicar o index 22
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
-thread 30 vai multiplicar o index 30
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
-thread 31 vai multiplicar o index 31
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
-
-
-
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 5
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
+thread 5 vai multiplicar os indexes [5]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
+thread 8 vai multiplicar os indexes [8]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
 thread 7 terminou
-thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar os indexes [9]
 thread 8 terminou
-thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar os indexes [10]
+thread 11 vai multiplicar os indexes [11]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar os indexes [12]
+thread 13 vai multiplicar os indexes [13]
 thread 10 terminou
-thread 12 vai multiplicar o index 12
+thread 14 vai multiplicar os indexes [14]
 thread 11 terminou
-thread 13 vai multiplicar o index 13
+thread 15 vai multiplicar os indexes [15]
 thread 12 terminou
-thread 14 vai multiplicar o index 14
+thread 16 vai multiplicar os indexes [16]
 thread 13 terminou
-thread 15 vai multiplicar o index 15
+thread 17 vai multiplicar os indexes [17]
 thread 14 terminou
-thread 16 vai multiplicar o index 16
+thread 18 vai multiplicar os indexes [18]
+thread 19 vai multiplicar os indexes [19]
 thread 15 terminou
-thread 17 vai multiplicar o index 17
+thread 20 vai multiplicar os indexes [20]
 thread 16 terminou
-thread 18 vai multiplicar o index 18
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 17 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
+thread 23 vai multiplicar os indexes [23]
 thread 18 terminou
-thread 21 vai multiplicar o index 21
+thread 24 vai multiplicar os indexes [24]
 thread 19 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 20 terminou
-thread 22 vai multiplicar o index 22
-thread 23 vai multiplicar o index 23
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 21 terminou
-thread 24 vai multiplicar o index 24
-thread 25 vai multiplicar o index 25
 thread 22 terminou
-thread 26 vai multiplicar o index 26
+thread 28 vai multiplicar os indexes [28]
 thread 23 terminou
-thread 27 vai multiplicar o index 27
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 24 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 25 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
 thread 26 terminou
-thread 30 vai multiplicar o index 30
 thread 27 terminou
-thread 31 vai multiplicar o index 31
-
-
-
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 6
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
-thread 4 vai multiplicar o index 4
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
-thread 9 vai multiplicar o index 9
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 10 vai multiplicar o index 10
 thread 7 terminou
-thread 11 vai multiplicar o index 11
+thread 8 vai multiplicar os indexes [8]
+thread 9 vai multiplicar os indexes [9]
+thread 10 vai multiplicar os indexes [10]
 thread 8 terminou
-thread 12 vai multiplicar o index 12
 thread 9 terminou
-thread 13 vai multiplicar o index 13
+thread 11 vai multiplicar os indexes [11]
 thread 10 terminou
-thread 14 vai multiplicar o index 14
+thread 12 vai multiplicar os indexes [12]
+thread 13 vai multiplicar os indexes [13]
 thread 11 terminou
-thread 15 vai multiplicar o index 15
+thread 14 vai multiplicar os indexes [14]
 thread 12 terminou
-thread 16 vai multiplicar o index 16
+thread 15 vai multiplicar os indexes [15]
 thread 13 terminou
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
 thread 14 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
+thread 18 vai multiplicar os indexes [18]
 thread 15 terminou
-thread 21 vai multiplicar o index 21
+thread 19 vai multiplicar os indexes [19]
 thread 16 terminou
-thread 22 vai multiplicar o index 22
-thread 23 vai multiplicar o index 23
+thread 20 vai multiplicar os indexes [20]
 thread 17 terminou
+thread 21 vai multiplicar os indexes [21]
 thread 18 terminou
-thread 24 vai multiplicar o index 24
-thread 25 vai multiplicar o index 25
+thread 22 vai multiplicar os indexes [22]
+thread 23 vai multiplicar os indexes [23]
 thread 19 terminou
-thread 26 vai multiplicar o index 26
+thread 24 vai multiplicar os indexes [24]
 thread 20 terminou
-thread 27 vai multiplicar o index 27
+thread 25 vai multiplicar os indexes [25]
 thread 21 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 22 terminou
-thread 30 vai multiplicar o index 30
 thread 23 terminou
+thread 28 vai multiplicar os indexes [28]
+thread 29 vai multiplicar os indexes [29]
 thread 24 terminou
-thread 31 vai multiplicar o index 31
+thread 30 vai multiplicar os indexes [30]
 thread 25 terminou
-
-
-
+thread 31 vai multiplicar os indexes [31]
 thread 26 terminou
 thread 27 terminou
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 7
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
+thread 2 vai multiplicar os indexes [2]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
+thread 5 vai multiplicar os indexes [5]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 4 terminou
-thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar os indexes [8]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar os indexes [9]
 thread 6 terminou
-thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar os indexes [10]
 thread 7 terminou
-thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar os indexes [11]
+thread 12 vai multiplicar os indexes [12]
 thread 8 terminou
-thread 11 vai multiplicar o index 11
 thread 9 terminou
-thread 12 vai multiplicar o index 12
-thread 13 vai multiplicar o index 13
+thread 13 vai multiplicar os indexes [13]
 thread 10 terminou
-thread 14 vai multiplicar o index 14
+thread 14 vai multiplicar os indexes [14]
+thread 15 vai multiplicar os indexes [15]
 thread 11 terminou
-thread 15 vai multiplicar o index 15
+thread 16 vai multiplicar os indexes [16]
 thread 12 terminou
 thread 13 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
 thread 14 terminou
-thread 18 vai multiplicar o index 18
 thread 15 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
-thread 21 vai multiplicar o index 21
 thread 16 terminou
-thread 22 vai multiplicar o index 22
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 23 vai multiplicar o index 23
+thread 18 vai multiplicar os indexes [18]
+thread 19 vai multiplicar os indexes [19]
 thread 18 terminou
-thread 24 vai multiplicar o index 24
+thread 20 vai multiplicar os indexes [20]
 thread 19 terminou
-thread 25 vai multiplicar o index 25
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 20 terminou
-thread 26 vai multiplicar o index 26
+thread 23 vai multiplicar os indexes [23]
 thread 21 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 24 vai multiplicar os indexes [24]
 thread 22 terminou
-thread 29 vai multiplicar o index 29
+thread 25 vai multiplicar os indexes [25]
+thread 26 vai multiplicar os indexes [26]
 thread 23 terminou
-thread 30 vai multiplicar o index 30
-thread 31 vai multiplicar o index 31
+thread 27 vai multiplicar os indexes [27]
+thread 28 vai multiplicar os indexes [28]
 thread 24 terminou
-
-
-
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 25 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 26 terminou
 thread 27 terminou
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 8
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
+thread 2 vai multiplicar os indexes [2]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
+thread 4 vai multiplicar os indexes [4]
+thread 5 vai multiplicar os indexes [5]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
 thread 4 terminou
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
 thread 5 terminou
-thread 7 vai multiplicar o index 7
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 8 vai multiplicar o index 8
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
-thread 9 vai multiplicar o index 9
-thread 10 vai multiplicar o index 10
+thread 9 vai multiplicar os indexes [9]
 thread 8 terminou
-thread 11 vai multiplicar o index 11
-thread 12 vai multiplicar o index 12
+thread 10 vai multiplicar os indexes [10]
 thread 9 terminou
-thread 13 vai multiplicar o index 13
+thread 11 vai multiplicar os indexes [11]
+thread 12 vai multiplicar os indexes [12]
 thread 10 terminou
-thread 14 vai multiplicar o index 14
-thread 15 vai multiplicar o index 15
+thread 13 vai multiplicar os indexes [13]
+thread 14 vai multiplicar os indexes [14]
 thread 11 terminou
-thread 16 vai multiplicar o index 16
+thread 15 vai multiplicar os indexes [15]
 thread 12 terminou
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
 thread 13 terminou
-thread 19 vai multiplicar o index 19
+thread 18 vai multiplicar os indexes [18]
 thread 14 terminou
-thread 20 vai multiplicar o index 20
+thread 19 vai multiplicar os indexes [19]
+thread 20 vai multiplicar os indexes [20]
 thread 15 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 16 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 23 vai multiplicar os indexes [23]
 thread 17 terminou
-thread 25 vai multiplicar o index 25
+thread 24 vai multiplicar os indexes [24]
+thread 25 vai multiplicar os indexes [25]
 thread 18 terminou
-thread 26 vai multiplicar o index 26
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 19 terminou
-thread 27 vai multiplicar o index 27
+thread 28 vai multiplicar os indexes [28]
 thread 20 terminou
-thread 28 vai multiplicar o index 28
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 21 terminou
-thread 29 vai multiplicar o index 29
+thread 31 vai multiplicar os indexes [31]
 thread 22 terminou
-thread 30 vai multiplicar o index 30
 thread 23 terminou
 thread 24 terminou
-thread 31 vai multiplicar o index 31
-
-
-
 thread 25 terminou
 thread 26 terminou
 thread 27 terminou
@@ -542,819 +525,796 @@ thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 9
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
+thread 2 vai multiplicar os indexes [2]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
+thread 5 vai multiplicar os indexes [5]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 4 terminou
-thread 6 vai multiplicar o index 6
+thread 8 vai multiplicar os indexes [8]
 thread 5 terminou
-thread 7 vai multiplicar o index 7
+thread 9 vai multiplicar os indexes [9]
+thread 10 vai multiplicar os indexes [10]
 thread 6 terminou
-thread 8 vai multiplicar o index 8
+thread 11 vai multiplicar os indexes [11]
 thread 7 terminou
-thread 9 vai multiplicar o index 9
+thread 12 vai multiplicar os indexes [12]
+thread 13 vai multiplicar os indexes [13]
 thread 8 terminou
-thread 10 vai multiplicar o index 10
+thread 14 vai multiplicar os indexes [14]
+thread 15 vai multiplicar os indexes [15]
 thread 9 terminou
-thread 11 vai multiplicar o index 11
-thread 12 vai multiplicar o index 12
+thread 16 vai multiplicar os indexes [16]
 thread 10 terminou
-thread 13 vai multiplicar o index 13
+thread 17 vai multiplicar os indexes [17]
+thread 18 vai multiplicar os indexes [18]
 thread 11 terminou
+thread 19 vai multiplicar os indexes [19]
 thread 12 terminou
-thread 14 vai multiplicar o index 14
-thread 15 vai multiplicar o index 15
+thread 20 vai multiplicar os indexes [20]
 thread 13 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 14 terminou
+thread 23 vai multiplicar os indexes [23]
 thread 15 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 24 vai multiplicar os indexes [24]
+thread 25 vai multiplicar os indexes [25]
 thread 16 terminou
-thread 20 vai multiplicar o index 20
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 17 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 28 vai multiplicar os indexes [28]
 thread 18 terminou
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 19 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 31 vai multiplicar os indexes [31]
 thread 20 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
 thread 21 terminou
 thread 22 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
 thread 23 terminou
 thread 24 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
 thread 25 terminou
 thread 26 terminou
-thread 31 vai multiplicar o index 31
-
-
-
 thread 27 terminou
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 10
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
+thread 2 vai multiplicar os indexes [2]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 3 vai multiplicar os indexes [3]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 4 vai multiplicar os indexes [4]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar os indexes [5]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 8 vai multiplicar os indexes [8]
+thread 9 vai multiplicar os indexes [9]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
+thread 10 vai multiplicar os indexes [10]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
+thread 11 vai multiplicar os indexes [11]
+thread 12 vai multiplicar os indexes [12]
 thread 8 terminou
-thread 9 vai multiplicar o index 9
+thread 13 vai multiplicar os indexes [13]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
+thread 14 vai multiplicar os indexes [14]
+thread 15 vai multiplicar os indexes [15]
 thread 10 terminou
-thread 11 vai multiplicar o index 11
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
 thread 11 terminou
-thread 12 vai multiplicar o index 12
+thread 18 vai multiplicar os indexes [18]
 thread 12 terminou
-thread 13 vai multiplicar o index 13
+thread 19 vai multiplicar os indexes [19]
+thread 20 vai multiplicar os indexes [20]
 thread 13 terminou
-thread 14 vai multiplicar o index 14
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 14 terminou
-thread 15 vai multiplicar o index 15
+thread 23 vai multiplicar os indexes [23]
 thread 15 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 24 vai multiplicar os indexes [24]
+thread 25 vai multiplicar os indexes [25]
 thread 16 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 17 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 27 vai multiplicar os indexes [27]
+thread 28 vai multiplicar os indexes [28]
 thread 18 terminou
-thread 20 vai multiplicar o index 20
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 19 terminou
-thread 21 vai multiplicar o index 21
+thread 31 vai multiplicar os indexes [31]
 thread 20 terminou
-thread 22 vai multiplicar o index 22
 thread 21 terminou
-thread 23 vai multiplicar o index 23
 thread 22 terminou
-thread 24 vai multiplicar o index 24
 thread 23 terminou
-thread 25 vai multiplicar o index 25
 thread 24 terminou
-thread 26 vai multiplicar o index 26
 thread 25 terminou
-thread 27 vai multiplicar o index 27
 thread 26 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
 thread 27 terminou
 thread 28 terminou
-thread 30 vai multiplicar o index 30
 thread 29 terminou
-thread 31 vai multiplicar o index 31
-
-
-
 thread 30 terminou
 thread 31 terminou
+
 execute 11
-thread 0 vai multiplicar o index 0
-thread 1 vai multiplicar o index 1
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
-thread 3 vai multiplicar o index 3
-thread 4 vai multiplicar o index 4
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 6 vai multiplicar o index 6
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 9 vai multiplicar o index 9
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
-thread 10 vai multiplicar o index 10
+thread 9 vai multiplicar os indexes [9]
+thread 10 vai multiplicar os indexes [10]
 thread 8 terminou
-thread 11 vai multiplicar o index 11
+thread 11 vai multiplicar os indexes [11]
+thread 12 vai multiplicar os indexes [12]
 thread 9 terminou
-thread 12 vai multiplicar o index 12
-thread 13 vai multiplicar o index 13
+thread 13 vai multiplicar os indexes [13]
 thread 10 terminou
-thread 14 vai multiplicar o index 14
 thread 11 terminou
-thread 15 vai multiplicar o index 15
+thread 14 vai multiplicar os indexes [14]
 thread 12 terminou
-thread 16 vai multiplicar o index 16
+thread 15 vai multiplicar os indexes [15]
 thread 13 terminou
-thread 17 vai multiplicar o index 17
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
+thread 18 vai multiplicar os indexes [18]
 thread 14 terminou
-thread 18 vai multiplicar o index 18
 thread 15 terminou
-thread 19 vai multiplicar o index 19
 thread 16 terminou
-thread 20 vai multiplicar o index 20
+thread 19 vai multiplicar os indexes [19]
 thread 17 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 20 vai multiplicar os indexes [20]
 thread 18 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
+thread 23 vai multiplicar os indexes [23]
 thread 19 terminou
-thread 25 vai multiplicar o index 25
+thread 24 vai multiplicar os indexes [24]
+thread 25 vai multiplicar os indexes [25]
 thread 20 terminou
-thread 26 vai multiplicar o index 26
+thread 26 vai multiplicar os indexes [26]
 thread 21 terminou
-thread 27 vai multiplicar o index 27
+thread 27 vai multiplicar os indexes [27]
 thread 22 terminou
-thread 28 vai multiplicar o index 28
 thread 23 terminou
+thread 28 vai multiplicar os indexes [28]
+thread 29 vai multiplicar os indexes [29]
 thread 24 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
+thread 30 vai multiplicar os indexes [30]
 thread 25 terminou
-thread 31 vai multiplicar o index 31
+thread 31 vai multiplicar os indexes [31]
 thread 26 terminou
-
-
-
 thread 27 terminou
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 12
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar os indexes [9]
+thread 10 vai multiplicar os indexes [10]
 thread 8 terminou
-thread 9 vai multiplicar o index 9
+thread 11 vai multiplicar os indexes [11]
+thread 12 vai multiplicar os indexes [12]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
+thread 13 vai multiplicar os indexes [13]
 thread 10 terminou
-thread 11 vai multiplicar o index 11
+thread 14 vai multiplicar os indexes [14]
 thread 11 terminou
-thread 12 vai multiplicar o index 12
 thread 12 terminou
-thread 13 vai multiplicar o index 13
+thread 15 vai multiplicar os indexes [15]
 thread 13 terminou
-thread 14 vai multiplicar o index 14
+thread 16 vai multiplicar os indexes [16]
 thread 14 terminou
-thread 15 vai multiplicar o index 15
+thread 17 vai multiplicar os indexes [17]
+thread 18 vai multiplicar os indexes [18]
 thread 15 terminou
-thread 16 vai multiplicar o index 16
+thread 19 vai multiplicar os indexes [19]
 thread 16 terminou
-thread 17 vai multiplicar o index 17
+thread 20 vai multiplicar os indexes [20]
 thread 17 terminou
-thread 18 vai multiplicar o index 18
 thread 18 terminou
-thread 19 vai multiplicar o index 19
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 19 terminou
-thread 20 vai multiplicar o index 20
+thread 23 vai multiplicar os indexes [23]
 thread 20 terminou
-thread 21 vai multiplicar o index 21
+thread 24 vai multiplicar os indexes [24]
+thread 25 vai multiplicar os indexes [25]
 thread 21 terminou
-thread 22 vai multiplicar o index 22
 thread 22 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 23 terminou
+thread 28 vai multiplicar os indexes [28]
+thread 29 vai multiplicar os indexes [29]
 thread 24 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 30 vai multiplicar os indexes [30]
 thread 25 terminou
-thread 27 vai multiplicar o index 27
+thread 31 vai multiplicar os indexes [31]
 thread 26 terminou
-thread 28 vai multiplicar o index 28
 thread 27 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
 thread 28 terminou
-thread 31 vai multiplicar o index 31
 thread 29 terminou
-
-
-
 thread 30 terminou
 thread 31 terminou
+
 execute 13
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
+thread 2 vai multiplicar os indexes [2]
+thread 3 vai multiplicar os indexes [3]
 thread 2 terminou
-thread 3 vai multiplicar o index 3
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 4 vai multiplicar os indexes [4]
+thread 5 vai multiplicar os indexes [5]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
 thread 5 terminou
-thread 7 vai multiplicar o index 7
 thread 6 terminou
+thread 7 vai multiplicar os indexes [7]
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
-thread 9 vai multiplicar o index 9
+thread 9 vai multiplicar os indexes [9]
 thread 8 terminou
+thread 10 vai multiplicar os indexes [10]
+thread 11 vai multiplicar os indexes [11]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar os indexes [12]
+thread 13 vai multiplicar os indexes [13]
 thread 10 terminou
+thread 14 vai multiplicar os indexes [14]
 thread 11 terminou
-thread 12 vai multiplicar o index 12
-thread 13 vai multiplicar o index 13
+thread 15 vai multiplicar os indexes [15]
+thread 16 vai multiplicar os indexes [16]
 thread 12 terminou
-thread 14 vai multiplicar o index 14
+thread 17 vai multiplicar os indexes [17]
 thread 13 terminou
-thread 15 vai multiplicar o index 15
+thread 18 vai multiplicar os indexes [18]
 thread 14 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 19 vai multiplicar os indexes [19]
+thread 20 vai multiplicar os indexes [20]
 thread 15 terminou
 thread 16 terminou
-thread 18 vai multiplicar o index 18
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 17 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
+thread 23 vai multiplicar os indexes [23]
 thread 18 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 19 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 20 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
-thread 23 vai multiplicar o index 23
+thread 26 vai multiplicar os indexes [26]
+thread 27 vai multiplicar os indexes [27]
 thread 21 terminou
-thread 24 vai multiplicar o index 24
+thread 28 vai multiplicar os indexes [28]
 thread 22 terminou
-thread 25 vai multiplicar o index 25
+thread 29 vai multiplicar os indexes [29]
+thread 30 vai multiplicar os indexes [30]
 thread 23 terminou
-thread 26 vai multiplicar o index 26
-thread 27 vai multiplicar o index 27
+thread 31 vai multiplicar os indexes [31]
 thread 24 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
 thread 25 terminou
-thread 30 vai multiplicar o index 30
 thread 26 terminou
-thread 31 vai multiplicar o index 31
 thread 27 terminou
-
-
-
 thread 28 terminou
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 14
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
+thread 2 vai multiplicar os indexes [2]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
 thread 2 terminou
-thread 3 vai multiplicar o index 3
+thread 3 vai multiplicar os indexes [3]
+thread 4 vai multiplicar os indexes [4]
 thread 3 terminou
-thread 4 vai multiplicar o index 4
+thread 5 vai multiplicar os indexes [5]
 thread 4 terminou
-thread 5 vai multiplicar o index 5
+thread 6 vai multiplicar os indexes [6]
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 7 vai multiplicar os indexes [7]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
+thread 8 vai multiplicar os indexes [8]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
+thread 9 vai multiplicar os indexes [9]
 thread 8 terminou
-thread 9 vai multiplicar o index 9
+thread 10 vai multiplicar os indexes [10]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
+thread 11 vai multiplicar os indexes [11]
 thread 10 terminou
-thread 11 vai multiplicar o index 11
+thread 12 vai multiplicar os indexes [12]
 thread 11 terminou
-thread 12 vai multiplicar o index 12
+thread 13 vai multiplicar os indexes [13]
 thread 12 terminou
-thread 13 vai multiplicar o index 13
+thread 14 vai multiplicar os indexes [14]
+thread 15 vai multiplicar os indexes [15]
 thread 13 terminou
-thread 14 vai multiplicar o index 14
+thread 16 vai multiplicar os indexes [16]
+thread 17 vai multiplicar os indexes [17]
 thread 14 terminou
-thread 15 vai multiplicar o index 15
+thread 18 vai multiplicar os indexes [18]
 thread 15 terminou
-thread 16 vai multiplicar o index 16
+thread 19 vai multiplicar os indexes [19]
 thread 16 terminou
-thread 17 vai multiplicar o index 17
 thread 17 terminou
-thread 18 vai multiplicar o index 18
+thread 20 vai multiplicar os indexes [20]
 thread 18 terminou
-thread 19 vai multiplicar o index 19
+thread 21 vai multiplicar os indexes [21]
+thread 22 vai multiplicar os indexes [22]
 thread 19 terminou
-thread 20 vai multiplicar o index 20
+thread 23 vai multiplicar os indexes [23]
 thread 20 terminou
-thread 21 vai multiplicar o index 21
+thread 24 vai multiplicar os indexes [24]
 thread 21 terminou
-thread 22 vai multiplicar o index 22
+thread 25 vai multiplicar os indexes [25]
 thread 22 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 26 vai multiplicar os indexes [26]
 thread 23 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 24 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 28 vai multiplicar os indexes [28]
 thread 25 terminou
-thread 29 vai multiplicar o index 29
+thread 29 vai multiplicar os indexes [29]
 thread 26 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 27 terminou
-thread 30 vai multiplicar o index 30
+thread 31 vai multiplicar os indexes [31]
 thread 28 terminou
-thread 31 vai multiplicar o index 31
-
-
-
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+
 execute 15
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 6 vai multiplicar o index 6
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 7 vai multiplicar o index 7
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 8 vai multiplicar o index 8
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 9 vai multiplicar o index 9
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 12 vai multiplicar o index 12
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 13 vai multiplicar o index 13
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 14 vai multiplicar o index 14
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 15 vai multiplicar o index 15
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 20 vai multiplicar o index 20
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
-thread 27 vai multiplicar o index 27
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
-thread 30 vai multiplicar o index 30
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
-thread 31 vai multiplicar o index 31
-
-
-
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 16
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 9 vai multiplicar o index 9
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 12 vai multiplicar o index 12
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 13 vai multiplicar o index 13
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 14 vai multiplicar o index 14
-thread 15 vai multiplicar o index 15
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 20 vai multiplicar o index 20
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 23 vai multiplicar o index 23
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 24 vai multiplicar o index 24
-thread 25 vai multiplicar o index 25
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 26 vai multiplicar o index 26
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
-thread 31 vai multiplicar o index 31
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
-
-
-
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 17
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 8 vai multiplicar o index 8
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 9 vai multiplicar o index 9
-thread 10 vai multiplicar o index 10
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 11 vai multiplicar o index 11
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 12 vai multiplicar o index 12
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 13 vai multiplicar o index 13
-thread 14 vai multiplicar o index 14
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 15 vai multiplicar o index 15
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 20 vai multiplicar o index 20
-thread 21 vai multiplicar o index 21
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 22 vai multiplicar o index 22
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 25 vai multiplicar o index 25
-thread 26 vai multiplicar o index 26
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 27 vai multiplicar o index 27
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 30 vai multiplicar o index 30
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 31 vai multiplicar o index 31
-
-
-
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 18
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
-thread 6 vai multiplicar o index 6
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 7 vai multiplicar o index 7
-thread 8 vai multiplicar o index 8
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 9 vai multiplicar o index 9
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 10 vai multiplicar o index 10
-thread 11 vai multiplicar o index 11
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 12 vai multiplicar o index 12
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 13 vai multiplicar o index 13
-thread 14 vai multiplicar o index 14
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 15 vai multiplicar o index 15
-thread 16 vai multiplicar o index 16
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 17 vai multiplicar o index 17
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 18 vai multiplicar o index 18
-thread 19 vai multiplicar o index 19
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 20 vai multiplicar o index 20
-thread 21 vai multiplicar o index 21
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 22 vai multiplicar o index 22
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 23 vai multiplicar o index 23
-thread 24 vai multiplicar o index 24
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 25 vai multiplicar o index 25
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 26 vai multiplicar o index 26
-thread 27 vai multiplicar o index 27
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 28 vai multiplicar o index 28
-thread 29 vai multiplicar o index 29
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 30 vai multiplicar o index 30
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 31 vai multiplicar o index 31
-
-
-
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 19
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 2 vai multiplicar o index 2
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 5 vai multiplicar o index 5
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 8 vai multiplicar o index 8
-thread 9 vai multiplicar o index 9
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 10 vai multiplicar o index 10
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 11 vai multiplicar o index 11
-thread 12 vai multiplicar o index 12
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 13 vai multiplicar o index 13
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 14 vai multiplicar o index 14
-thread 15 vai multiplicar o index 15
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 16 vai multiplicar o index 16
-thread 17 vai multiplicar o index 17
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 18 vai multiplicar o index 18
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 21 vai multiplicar o index 21
-thread 22 vai multiplicar o index 22
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 23 vai multiplicar o index 23
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 24 vai multiplicar o index 24
-thread 25 vai multiplicar o index 25
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 26 vai multiplicar o index 26
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 27 vai multiplicar o index 27
-thread 28 vai multiplicar o index 28
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 29 vai multiplicar o index 29
-thread 30 vai multiplicar o index 30
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
-thread 31 vai multiplicar o index 31
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-
-
-
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
+thread 25 vai multiplicar os indexes [25]
 thread 25 terminou
+thread 26 vai multiplicar os indexes [26]
 thread 26 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 27 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 28 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 29 terminou
+thread 30 vai multiplicar os indexes [30]
 thread 30 terminou
+thread 31 vai multiplicar os indexes [31]
 thread 31 terminou
+
 execute 20
-thread 0 vai multiplicar o index 0
+thread 0 vai multiplicar os indexes [0]
 thread 0 terminou
-thread 1 vai multiplicar o index 1
-thread 2 vai multiplicar o index 2
+thread 1 vai multiplicar os indexes [1]
 thread 1 terminou
-thread 3 vai multiplicar o index 3
+thread 2 vai multiplicar os indexes [2]
 thread 2 terminou
-thread 4 vai multiplicar o index 4
-thread 5 vai multiplicar o index 5
+thread 3 vai multiplicar os indexes [3]
 thread 3 terminou
-thread 6 vai multiplicar o index 6
-thread 7 vai multiplicar o index 7
+thread 4 vai multiplicar os indexes [4]
 thread 4 terminou
-thread 8 vai multiplicar o index 8
+thread 5 vai multiplicar os indexes [5]
 thread 5 terminou
-thread 9 vai multiplicar o index 9
-thread 10 vai multiplicar o index 10
+thread 6 vai multiplicar os indexes [6]
 thread 6 terminou
-thread 11 vai multiplicar o index 11
+thread 7 vai multiplicar os indexes [7]
 thread 7 terminou
-thread 12 vai multiplicar o index 12
-thread 13 vai multiplicar o index 13
+thread 8 vai multiplicar os indexes [8]
 thread 8 terminou
-thread 14 vai multiplicar o index 14
-thread 15 vai multiplicar o index 15
+thread 9 vai multiplicar os indexes [9]
 thread 9 terminou
-thread 16 vai multiplicar o index 16
+thread 10 vai multiplicar os indexes [10]
 thread 10 terminou
-thread 17 vai multiplicar o index 17
-thread 18 vai multiplicar o index 18
+thread 11 vai multiplicar os indexes [11]
 thread 11 terminou
-thread 19 vai multiplicar o index 19
-thread 20 vai multiplicar o index 20
+thread 12 vai multiplicar os indexes [12]
 thread 12 terminou
-thread 21 vai multiplicar o index 21
+thread 13 vai multiplicar os indexes [13]
 thread 13 terminou
-thread 22 vai multiplicar o index 22
-thread 23 vai multiplicar o index 23
+thread 14 vai multiplicar os indexes [14]
 thread 14 terminou
-thread 24 vai multiplicar o index 24
+thread 15 vai multiplicar os indexes [15]
 thread 15 terminou
-thread 25 vai multiplicar o index 25
+thread 16 vai multiplicar os indexes [16]
 thread 16 terminou
-thread 26 vai multiplicar o index 26
-thread 27 vai multiplicar o index 27
+thread 17 vai multiplicar os indexes [17]
 thread 17 terminou
-thread 28 vai multiplicar o index 28
+thread 18 vai multiplicar os indexes [18]
 thread 18 terminou
-thread 29 vai multiplicar o index 29
+thread 19 vai multiplicar os indexes [19]
 thread 19 terminou
+thread 20 vai multiplicar os indexes [20]
 thread 20 terminou
-thread 30 vai multiplicar o index 30
+thread 21 vai multiplicar os indexes [21]
 thread 21 terminou
-thread 31 vai multiplicar o index 31
-
-
-
+thread 22 vai multiplicar os indexes [22]
 thread 22 terminou
+thread 23 vai multiplicar os indexes [23]
 thread 23 terminou
+thread 24 vai multiplicar os indexes [24]
 thread 24 terminou
+thread 25 vai multiplicar os indexes [25]
+thread 26 vai multiplicar os indexes [26]
 thread 25 terminou
+thread 27 vai multiplicar os indexes [27]
 thread 26 terminou
+thread 28 vai multiplicar os indexes [28]
 thread 27 terminou
+thread 29 vai multiplicar os indexes [29]
 thread 28 terminou
+thread 30 vai multiplicar os indexes [30]
+thread 31 vai multiplicar os indexes [31]
 thread 29 terminou
 thread 30 terminou
 thread 31 terminou
+

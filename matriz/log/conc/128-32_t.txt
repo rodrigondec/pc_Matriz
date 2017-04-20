@@ -1,0 +1,1320 @@
+execute 1
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 4 terminou
+thread 0 terminou
+thread 12 terminou
+thread 8 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 16 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 20 terminou
+thread 28 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 32 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 36 terminou
+thread 40 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 44 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 48 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 56 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 60 terminou
+thread 52 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 64 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 68 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 72 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 76 terminou
+thread 80 terminou
+thread 116 terminou
+thread 104 terminou
+thread 108 terminou
+thread 84 terminou
+thread 96 terminou
+thread 100 terminou
+thread 112 terminou
+thread 92 terminou
+thread 88 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 2
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 4 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 8 terminou
+thread 12 terminou
+thread 0 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 16 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 20 terminou
+thread 28 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 32 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 24 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 36 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 40 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 44 terminou
+thread 48 terminou
+thread 56 terminou
+thread 52 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 68 terminou
+thread 60 terminou
+thread 64 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 72 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 76 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 80 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 84 terminou
+thread 92 terminou
+thread 88 terminou
+thread 96 terminou
+thread 100 terminou
+thread 112 terminou
+thread 104 terminou
+thread 116 terminou
+thread 108 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 3
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 4 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 0 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 8 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 12 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 24 terminou
+thread 28 terminou
+thread 20 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 32 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 44 terminou
+thread 16 terminou
+thread 40 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 36 terminou
+thread 48 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 52 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 56 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 68 terminou
+thread 60 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 72 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 64 terminou
+thread 76 terminou
+thread 80 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 84 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 96 terminou
+thread 104 terminou
+thread 92 terminou
+thread 100 terminou
+thread 112 terminou
+thread 108 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 4
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 0 terminou
+thread 4 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 8 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 12 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 16 terminou
+thread 24 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 20 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 28 terminou
+thread 36 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 32 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 40 terminou
+thread 44 terminou
+thread 48 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 52 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 56 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 60 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 64 terminou
+thread 76 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 68 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 72 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 80 terminou
+thread 84 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 92 terminou
+thread 96 terminou
+thread 100 terminou
+thread 104 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 108 terminou
+thread 124 terminou
+
+execute 5
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 0 terminou
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 8 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 4 terminou
+thread 12 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 16 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 24 terminou
+thread 20 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 28 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 32 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 44 terminou
+thread 40 terminou
+thread 36 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 52 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 60 terminou
+thread 56 terminou
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 64 terminou
+thread 48 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 68 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 72 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 76 terminou
+thread 80 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 84 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 92 terminou
+thread 100 terminou
+thread 96 terminou
+thread 104 terminou
+thread 108 terminou
+thread 124 terminou
+thread 120 terminou
+thread 112 terminou
+thread 116 terminou
+
+execute 6
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 4 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 24 terminou
+thread 16 terminou
+thread 12 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 32 terminou
+thread 8 terminou
+thread 20 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 28 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 36 terminou
+thread 40 terminou
+thread 44 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 48 terminou
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 52 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 56 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 84 terminou
+thread 60 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 68 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 80 terminou
+thread 64 terminou
+thread 72 terminou
+thread 76 terminou
+thread 88 terminou
+thread 92 terminou
+thread 104 terminou
+thread 100 terminou
+thread 96 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 7
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 4 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 12 terminou
+thread 8 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 16 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 20 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 28 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 32 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 44 terminou
+thread 36 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 48 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 40 terminou
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 52 terminou
+thread 60 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 68 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 64 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 56 terminou
+thread 76 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 72 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 80 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 84 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 96 terminou
+thread 100 terminou
+thread 92 terminou
+thread 108 terminou
+thread 104 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 8
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 0 terminou
+thread 4 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 8 terminou
+thread 12 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 16 terminou
+thread 24 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 20 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 32 terminou
+thread 48 terminou
+thread 36 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 28 terminou
+thread 40 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 44 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 56 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 64 terminou
+thread 60 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 52 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 68 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 80 terminou
+thread 88 terminou
+thread 72 terminou
+thread 84 terminou
+thread 92 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 76 terminou
+thread 96 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 108 terminou
+thread 104 terminou
+thread 100 terminou
+thread 112 terminou
+thread 116 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 9
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 0 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 4 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 8 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 12 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 16 terminou
+thread 20 terminou
+thread 24 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 32 terminou
+thread 28 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 36 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 44 terminou
+thread 40 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 48 terminou
+thread 56 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 60 terminou
+thread 52 terminou
+thread 72 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 64 terminou
+thread 68 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 76 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 80 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 92 terminou
+thread 96 terminou
+thread 88 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 84 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 100 terminou
+thread 104 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 10
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 4 terminou
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 8 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 12 terminou
+thread 20 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 24 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 16 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 28 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 40 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 36 terminou
+thread 32 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 44 terminou
+thread 48 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 52 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 60 terminou
+thread 56 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 64 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 80 terminou
+thread 72 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 84 terminou
+thread 68 terminou
+thread 96 terminou
+thread 76 terminou
+thread 92 terminou
+thread 104 terminou
+thread 88 terminou
+thread 100 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 11
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 0 terminou
+thread 4 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 8 terminou
+thread 16 terminou
+thread 12 terminou
+thread 32 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 20 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 28 terminou
+thread 24 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 36 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 44 terminou
+thread 40 terminou
+thread 52 terminou
+thread 48 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 60 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 56 terminou
+thread 64 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 68 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 76 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 80 terminou
+thread 84 terminou
+thread 72 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 96 terminou
+thread 92 terminou
+thread 104 terminou
+thread 100 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 12
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 4 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 8 terminou
+thread 16 terminou
+thread 12 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 28 terminou
+thread 20 terminou
+thread 24 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 32 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 40 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 36 terminou
+thread 44 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 52 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 48 terminou
+thread 56 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 60 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 68 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 64 terminou
+thread 76 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 72 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 84 terminou
+thread 80 terminou
+thread 92 terminou
+thread 96 terminou
+thread 104 terminou
+thread 108 terminou
+thread 100 terminou
+thread 116 terminou
+thread 112 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 13
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 12 terminou
+thread 16 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 4 terminou
+thread 8 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 24 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 40 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 32 terminou
+thread 28 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 20 terminou
+thread 52 terminou
+thread 36 terminou
+thread 44 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 48 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 60 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 56 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 64 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 68 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 76 terminou
+thread 72 terminou
+thread 84 terminou
+thread 88 terminou
+thread 80 terminou
+thread 92 terminou
+thread 96 terminou
+thread 104 terminou
+thread 116 terminou
+thread 100 terminou
+thread 112 terminou
+thread 108 terminou
+thread 124 terminou
+thread 120 terminou
+
+execute 14
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 0 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 8 terminou
+thread 4 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 16 terminou
+thread 12 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 20 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 24 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 28 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 36 terminou
+thread 32 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 40 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 44 terminou
+thread 48 terminou
+thread 52 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 56 terminou
+thread 60 terminou
+thread 64 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 68 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 72 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 80 terminou
+thread 84 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 76 terminou
+thread 88 terminou
+thread 92 terminou
+thread 96 terminou
+thread 100 terminou
+thread 104 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 15
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 0 terminou
+thread 4 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 8 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 12 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 16 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 20 terminou
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 28 terminou
+thread 36 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 32 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 44 terminou
+thread 40 terminou
+thread 48 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 52 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 56 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 60 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 64 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 68 terminou
+thread 72 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 76 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 92 terminou
+thread 88 terminou
+thread 80 terminou
+thread 84 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 96 terminou
+thread 100 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 108 terminou
+thread 104 terminou
+thread 112 terminou
+thread 120 terminou
+thread 116 terminou
+thread 124 terminou
+
+execute 16
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 4 terminou
+thread 0 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 8 terminou
+thread 12 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 20 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 16 terminou
+thread 28 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 32 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 36 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 40 terminou
+thread 48 terminou
+thread 56 terminou
+thread 44 terminou
+thread 52 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 60 terminou
+thread 64 terminou
+thread 68 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 72 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 76 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 80 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 84 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 88 terminou
+thread 100 terminou
+thread 96 terminou
+thread 104 terminou
+thread 92 terminou
+thread 112 terminou
+thread 108 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 17
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 0 terminou
+thread 4 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 8 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 16 terminou
+thread 12 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 20 terminou
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 28 terminou
+thread 32 terminou
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 36 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 44 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 40 terminou
+thread 48 terminou
+thread 52 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 60 terminou
+thread 56 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 68 terminou
+thread 64 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 72 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 76 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 80 terminou
+thread 84 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 88 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 92 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 96 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 100 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 104 terminou
+thread 116 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 112 terminou
+thread 108 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 18
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 4 terminou
+thread 0 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 8 terminou
+thread 20 terminou
+thread 16 terminou
+thread 12 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 24 terminou
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 36 terminou
+thread 32 terminou
+thread 28 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 40 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 48 terminou
+thread 52 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 44 terminou
+thread 64 terminou
+thread 56 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 60 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 68 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 72 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 76 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 88 terminou
+thread 80 terminou
+thread 84 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 100 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 92 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 96 terminou
+thread 104 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 19
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 4 terminou
+thread 0 terminou
+thread 8 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 16 terminou
+thread 12 terminou
+thread 20 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 24 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 36 terminou
+thread 28 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 40 terminou
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 44 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 32 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 48 terminou
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 52 terminou
+thread 56 terminou
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 60 terminou
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 68 terminou
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 64 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 80 terminou
+thread 72 terminou
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 76 terminou
+thread 84 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 88 terminou
+thread 92 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 100 terminou
+thread 96 terminou
+thread 104 terminou
+thread 108 terminou
+thread 112 terminou
+thread 116 terminou
+thread 120 terminou
+thread 124 terminou
+
+execute 20
+thread 0 vai multiplicar os indexes [0, 1, 2, 3]
+thread 4 vai multiplicar os indexes [4, 5, 6, 7]
+thread 8 vai multiplicar os indexes [8, 9, 10, 11]
+thread 12 vai multiplicar os indexes [12, 13, 14, 15]
+thread 16 vai multiplicar os indexes [16, 17, 18, 19]
+thread 4 terminou
+thread 0 terminou
+thread 8 terminou
+thread 20 vai multiplicar os indexes [20, 21, 22, 23]
+thread 12 terminou
+thread 24 vai multiplicar os indexes [24, 25, 26, 27]
+thread 16 terminou
+thread 28 vai multiplicar os indexes [28, 29, 30, 31]
+thread 32 vai multiplicar os indexes [32, 33, 34, 35]
+thread 20 terminou
+thread 36 vai multiplicar os indexes [36, 37, 38, 39]
+thread 24 terminou
+thread 40 vai multiplicar os indexes [40, 41, 42, 43]
+thread 44 vai multiplicar os indexes [44, 45, 46, 47]
+thread 28 terminou
+thread 48 vai multiplicar os indexes [48, 49, 50, 51]
+thread 52 vai multiplicar os indexes [52, 53, 54, 55]
+thread 36 terminou
+thread 56 vai multiplicar os indexes [56, 57, 58, 59]
+thread 32 terminou
+thread 40 terminou
+thread 60 vai multiplicar os indexes [60, 61, 62, 63]
+thread 64 vai multiplicar os indexes [64, 65, 66, 67]
+thread 44 terminou
+thread 68 vai multiplicar os indexes [68, 69, 70, 71]
+thread 48 terminou
+thread 72 vai multiplicar os indexes [72, 73, 74, 75]
+thread 52 terminou
+thread 76 vai multiplicar os indexes [76, 77, 78, 79]
+thread 80 vai multiplicar os indexes [80, 81, 82, 83]
+thread 84 vai multiplicar os indexes [84, 85, 86, 87]
+thread 56 terminou
+thread 88 vai multiplicar os indexes [88, 89, 90, 91]
+thread 64 terminou
+thread 60 terminou
+thread 68 terminou
+thread 72 terminou
+thread 92 vai multiplicar os indexes [92, 93, 94, 95]
+thread 76 terminou
+thread 96 vai multiplicar os indexes [96, 97, 98, 99]
+thread 80 terminou
+thread 84 terminou
+thread 100 vai multiplicar os indexes [100, 101, 102, 103]
+thread 104 vai multiplicar os indexes [104, 105, 106, 107]
+thread 108 vai multiplicar os indexes [108, 109, 110, 111]
+thread 88 terminou
+thread 112 vai multiplicar os indexes [112, 113, 114, 115]
+thread 116 vai multiplicar os indexes [116, 117, 118, 119]
+thread 92 terminou
+thread 120 vai multiplicar os indexes [120, 121, 122, 123]
+thread 104 terminou
+thread 100 terminou
+thread 108 terminou
+thread 124 vai multiplicar os indexes [124, 125, 126, 127]
+thread 112 terminou
+thread 120 terminou
+thread 96 terminou
+thread 116 terminou
+thread 124 terminou
+
