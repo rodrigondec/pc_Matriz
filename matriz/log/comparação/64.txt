@@ -1,0 +1,2 @@
+Tempo medio de execução sequencial: 0.13192821741104127
+Tempo medio de execução  2 threads: 0.22076541185379028
